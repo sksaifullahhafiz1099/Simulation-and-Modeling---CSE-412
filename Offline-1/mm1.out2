@@ -1,0 +1,4999 @@
+Next event: Customer 1 Arrival
+
+----No. of customer  delayed: 1----
+
+Next event: Customer 1 Departure
+Next event: Customer 2 Arrival
+
+----No. of customer  delayed: 2----
+
+Next event: Customer 2 Departure
+Next event: Customer 3 Arrival
+
+----No. of customer  delayed: 3----
+
+Next event: Customer 4 Arrival
+Next event: Customer 5 Arrival
+Next event: Customer 3 Departure
+
+----No. of customer  delayed: 4----
+
+Next event: Customer 6 Arrival
+Next event: Customer 4 Departure
+
+----No. of customer  delayed: 5----
+
+Next event: Customer 5 Departure
+
+----No. of customer  delayed: 6----
+
+Next event: Customer 6 Departure
+Next event: Customer 7 Arrival
+
+----No. of customer  delayed: 7----
+
+Next event: Customer 8 Arrival
+Next event: Customer 7 Departure
+
+----No. of customer  delayed: 8----
+
+Next event: Customer 8 Departure
+Next event: Customer 9 Arrival
+
+----No. of customer  delayed: 9----
+
+Next event: Customer 9 Departure
+Next event: Customer 10 Arrival
+
+----No. of customer  delayed: 10----
+
+Next event: Customer 11 Arrival
+Next event: Customer 10 Departure
+
+----No. of customer  delayed: 11----
+
+Next event: Customer 11 Departure
+Next event: Customer 12 Arrival
+
+----No. of customer  delayed: 12----
+
+Next event: Customer 12 Departure
+Next event: Customer 13 Arrival
+
+----No. of customer  delayed: 13----
+
+Next event: Customer 13 Departure
+Next event: Customer 14 Arrival
+
+----No. of customer  delayed: 14----
+
+Next event: Customer 14 Departure
+Next event: Customer 15 Arrival
+
+----No. of customer  delayed: 15----
+
+Next event: Customer 15 Departure
+Next event: Customer 16 Arrival
+
+----No. of customer  delayed: 16----
+
+Next event: Customer 17 Arrival
+Next event: Customer 16 Departure
+
+----No. of customer  delayed: 17----
+
+Next event: Customer 17 Departure
+Next event: Customer 18 Arrival
+
+----No. of customer  delayed: 18----
+
+Next event: Customer 18 Departure
+Next event: Customer 19 Arrival
+
+----No. of customer  delayed: 19----
+
+Next event: Customer 20 Arrival
+Next event: Customer 21 Arrival
+Next event: Customer 22 Arrival
+Next event: Customer 23 Arrival
+Next event: Customer 24 Arrival
+Next event: Customer 25 Arrival
+Next event: Customer 19 Departure
+
+----No. of customer  delayed: 20----
+
+Next event: Customer 20 Departure
+
+----No. of customer  delayed: 21----
+
+Next event: Customer 21 Departure
+
+----No. of customer  delayed: 22----
+
+Next event: Customer 22 Departure
+
+----No. of customer  delayed: 23----
+
+Next event: Customer 26 Arrival
+Next event: Customer 23 Departure
+
+----No. of customer  delayed: 24----
+
+Next event: Customer 24 Departure
+
+----No. of customer  delayed: 25----
+
+Next event: Customer 25 Departure
+
+----No. of customer  delayed: 26----
+
+Next event: Customer 26 Departure
+Next event: Customer 27 Arrival
+
+----No. of customer  delayed: 27----
+
+Next event: Customer 27 Departure
+Next event: Customer 28 Arrival
+
+----No. of customer  delayed: 28----
+
+Next event: Customer 28 Departure
+Next event: Customer 29 Arrival
+
+----No. of customer  delayed: 29----
+
+Next event: Customer 29 Departure
+Next event: Customer 30 Arrival
+
+----No. of customer  delayed: 30----
+
+Next event: Customer 30 Departure
+Next event: Customer 31 Arrival
+
+----No. of customer  delayed: 31----
+
+Next event: Customer 32 Arrival
+Next event: Customer 31 Departure
+
+----No. of customer  delayed: 32----
+
+Next event: Customer 33 Arrival
+Next event: Customer 32 Departure
+
+----No. of customer  delayed: 33----
+
+Next event: Customer 34 Arrival
+Next event: Customer 33 Departure
+
+----No. of customer  delayed: 34----
+
+Next event: Customer 34 Departure
+Next event: Customer 35 Arrival
+
+----No. of customer  delayed: 35----
+
+Next event: Customer 35 Departure
+Next event: Customer 36 Arrival
+
+----No. of customer  delayed: 36----
+
+Next event: Customer 36 Departure
+Next event: Customer 37 Arrival
+
+----No. of customer  delayed: 37----
+
+Next event: Customer 37 Departure
+Next event: Customer 38 Arrival
+
+----No. of customer  delayed: 38----
+
+Next event: Customer 38 Departure
+Next event: Customer 39 Arrival
+
+----No. of customer  delayed: 39----
+
+Next event: Customer 40 Arrival
+Next event: Customer 41 Arrival
+Next event: Customer 39 Departure
+
+----No. of customer  delayed: 40----
+
+Next event: Customer 40 Departure
+
+----No. of customer  delayed: 41----
+
+Next event: Customer 41 Departure
+Next event: Customer 42 Arrival
+
+----No. of customer  delayed: 42----
+
+Next event: Customer 42 Departure
+Next event: Customer 43 Arrival
+
+----No. of customer  delayed: 43----
+
+Next event: Customer 43 Departure
+Next event: Customer 44 Arrival
+
+----No. of customer  delayed: 44----
+
+Next event: Customer 44 Departure
+Next event: Customer 45 Arrival
+
+----No. of customer  delayed: 45----
+
+Next event: Customer 45 Departure
+Next event: Customer 46 Arrival
+
+----No. of customer  delayed: 46----
+
+Next event: Customer 46 Departure
+Next event: Customer 47 Arrival
+
+----No. of customer  delayed: 47----
+
+Next event: Customer 48 Arrival
+Next event: Customer 49 Arrival
+Next event: Customer 47 Departure
+
+----No. of customer  delayed: 48----
+
+Next event: Customer 48 Departure
+
+----No. of customer  delayed: 49----
+
+Next event: Customer 50 Arrival
+Next event: Customer 51 Arrival
+Next event: Customer 49 Departure
+
+----No. of customer  delayed: 50----
+
+Next event: Customer 52 Arrival
+Next event: Customer 50 Departure
+
+----No. of customer  delayed: 51----
+
+Next event: Customer 51 Departure
+
+----No. of customer  delayed: 52----
+
+Next event: Customer 53 Arrival
+Next event: Customer 52 Departure
+
+----No. of customer  delayed: 53----
+
+Next event: Customer 53 Departure
+Next event: Customer 54 Arrival
+
+----No. of customer  delayed: 54----
+
+Next event: Customer 55 Arrival
+Next event: Customer 54 Departure
+
+----No. of customer  delayed: 55----
+
+Next event: Customer 55 Departure
+Next event: Customer 56 Arrival
+
+----No. of customer  delayed: 56----
+
+Next event: Customer 56 Departure
+Next event: Customer 57 Arrival
+
+----No. of customer  delayed: 57----
+
+Next event: Customer 57 Departure
+Next event: Customer 58 Arrival
+
+----No. of customer  delayed: 58----
+
+Next event: Customer 59 Arrival
+Next event: Customer 58 Departure
+
+----No. of customer  delayed: 59----
+
+Next event: Customer 59 Departure
+Next event: Customer 60 Arrival
+
+----No. of customer  delayed: 60----
+
+Next event: Customer 60 Departure
+Next event: Customer 61 Arrival
+
+----No. of customer  delayed: 61----
+
+Next event: Customer 61 Departure
+Next event: Customer 62 Arrival
+
+----No. of customer  delayed: 62----
+
+Next event: Customer 62 Departure
+Next event: Customer 63 Arrival
+
+----No. of customer  delayed: 63----
+
+Next event: Customer 64 Arrival
+Next event: Customer 65 Arrival
+Next event: Customer 63 Departure
+
+----No. of customer  delayed: 64----
+
+Next event: Customer 64 Departure
+
+----No. of customer  delayed: 65----
+
+Next event: Customer 65 Departure
+Next event: Customer 66 Arrival
+
+----No. of customer  delayed: 66----
+
+Next event: Customer 66 Departure
+Next event: Customer 67 Arrival
+
+----No. of customer  delayed: 67----
+
+Next event: Customer 67 Departure
+Next event: Customer 68 Arrival
+
+----No. of customer  delayed: 68----
+
+Next event: Customer 68 Departure
+Next event: Customer 69 Arrival
+
+----No. of customer  delayed: 69----
+
+Next event: Customer 69 Departure
+Next event: Customer 70 Arrival
+
+----No. of customer  delayed: 70----
+
+Next event: Customer 70 Departure
+Next event: Customer 71 Arrival
+
+----No. of customer  delayed: 71----
+
+Next event: Customer 71 Departure
+Next event: Customer 72 Arrival
+
+----No. of customer  delayed: 72----
+
+Next event: Customer 73 Arrival
+Next event: Customer 74 Arrival
+Next event: Customer 72 Departure
+
+----No. of customer  delayed: 73----
+
+Next event: Customer 73 Departure
+
+----No. of customer  delayed: 74----
+
+Next event: Customer 74 Departure
+Next event: Customer 75 Arrival
+
+----No. of customer  delayed: 75----
+
+Next event: Customer 76 Arrival
+Next event: Customer 75 Departure
+
+----No. of customer  delayed: 76----
+
+Next event: Customer 76 Departure
+Next event: Customer 77 Arrival
+
+----No. of customer  delayed: 77----
+
+Next event: Customer 77 Departure
+Next event: Customer 78 Arrival
+
+----No. of customer  delayed: 78----
+
+Next event: Customer 78 Departure
+Next event: Customer 79 Arrival
+
+----No. of customer  delayed: 79----
+
+Next event: Customer 80 Arrival
+Next event: Customer 79 Departure
+
+----No. of customer  delayed: 80----
+
+Next event: Customer 80 Departure
+Next event: Customer 81 Arrival
+
+----No. of customer  delayed: 81----
+
+Next event: Customer 81 Departure
+Next event: Customer 82 Arrival
+
+----No. of customer  delayed: 82----
+
+Next event: Customer 82 Departure
+Next event: Customer 83 Arrival
+
+----No. of customer  delayed: 83----
+
+Next event: Customer 84 Arrival
+Next event: Customer 83 Departure
+
+----No. of customer  delayed: 84----
+
+Next event: Customer 84 Departure
+Next event: Customer 85 Arrival
+
+----No. of customer  delayed: 85----
+
+Next event: Customer 86 Arrival
+Next event: Customer 87 Arrival
+Next event: Customer 88 Arrival
+Next event: Customer 85 Departure
+
+----No. of customer  delayed: 86----
+
+Next event: Customer 89 Arrival
+Next event: Customer 86 Departure
+
+----No. of customer  delayed: 87----
+
+Next event: Customer 87 Departure
+
+----No. of customer  delayed: 88----
+
+Next event: Customer 90 Arrival
+Next event: Customer 88 Departure
+
+----No. of customer  delayed: 89----
+
+Next event: Customer 89 Departure
+
+----No. of customer  delayed: 90----
+
+Next event: Customer 90 Departure
+Next event: Customer 91 Arrival
+
+----No. of customer  delayed: 91----
+
+Next event: Customer 91 Departure
+Next event: Customer 92 Arrival
+
+----No. of customer  delayed: 92----
+
+Next event: Customer 93 Arrival
+Next event: Customer 94 Arrival
+Next event: Customer 95 Arrival
+Next event: Customer 92 Departure
+
+----No. of customer  delayed: 93----
+
+Next event: Customer 93 Departure
+
+----No. of customer  delayed: 94----
+
+Next event: Customer 96 Arrival
+Next event: Customer 97 Arrival
+Next event: Customer 94 Departure
+
+----No. of customer  delayed: 95----
+
+Next event: Customer 98 Arrival
+Next event: Customer 99 Arrival
+Next event: Customer 95 Departure
+
+----No. of customer  delayed: 96----
+
+Next event: Customer 100 Arrival
+Next event: Customer 96 Departure
+
+----No. of customer  delayed: 97----
+
+Next event: Customer 97 Departure
+
+----No. of customer  delayed: 98----
+
+Next event: Customer 101 Arrival
+Next event: Customer 98 Departure
+
+----No. of customer  delayed: 99----
+
+Next event: Customer 99 Departure
+
+----No. of customer  delayed: 100----
+
+Next event: Customer 100 Departure
+
+----No. of customer  delayed: 101----
+
+Next event: Customer 101 Departure
+Next event: Customer 102 Arrival
+
+----No. of customer  delayed: 102----
+
+Next event: Customer 103 Arrival
+Next event: Customer 104 Arrival
+Next event: Customer 102 Departure
+
+----No. of customer  delayed: 103----
+
+Next event: Customer 105 Arrival
+Next event: Customer 103 Departure
+
+----No. of customer  delayed: 104----
+
+Next event: Customer 104 Departure
+
+----No. of customer  delayed: 105----
+
+Next event: Customer 106 Arrival
+Next event: Customer 105 Departure
+
+----No. of customer  delayed: 106----
+
+Next event: Customer 106 Departure
+Next event: Customer 107 Arrival
+
+----No. of customer  delayed: 107----
+
+Next event: Customer 108 Arrival
+Next event: Customer 107 Departure
+
+----No. of customer  delayed: 108----
+
+Next event: Customer 108 Departure
+Next event: Customer 109 Arrival
+
+----No. of customer  delayed: 109----
+
+Next event: Customer 109 Departure
+Next event: Customer 110 Arrival
+
+----No. of customer  delayed: 110----
+
+Next event: Customer 111 Arrival
+Next event: Customer 112 Arrival
+Next event: Customer 113 Arrival
+Next event: Customer 110 Departure
+
+----No. of customer  delayed: 111----
+
+Next event: Customer 114 Arrival
+Next event: Customer 111 Departure
+
+----No. of customer  delayed: 112----
+
+Next event: Customer 115 Arrival
+Next event: Customer 116 Arrival
+Next event: Customer 112 Departure
+
+----No. of customer  delayed: 113----
+
+Next event: Customer 113 Departure
+
+----No. of customer  delayed: 114----
+
+Next event: Customer 114 Departure
+
+----No. of customer  delayed: 115----
+
+Next event: Customer 115 Departure
+
+----No. of customer  delayed: 116----
+
+Next event: Customer 116 Departure
+Next event: Customer 117 Arrival
+
+----No. of customer  delayed: 117----
+
+Next event: Customer 117 Departure
+Next event: Customer 118 Arrival
+
+----No. of customer  delayed: 118----
+
+Next event: Customer 118 Departure
+Next event: Customer 119 Arrival
+
+----No. of customer  delayed: 119----
+
+Next event: Customer 119 Departure
+Next event: Customer 120 Arrival
+
+----No. of customer  delayed: 120----
+
+Next event: Customer 120 Departure
+Next event: Customer 121 Arrival
+
+----No. of customer  delayed: 121----
+
+Next event: Customer 121 Departure
+Next event: Customer 122 Arrival
+
+----No. of customer  delayed: 122----
+
+Next event: Customer 122 Departure
+Next event: Customer 123 Arrival
+
+----No. of customer  delayed: 123----
+
+Next event: Customer 123 Departure
+Next event: Customer 124 Arrival
+
+----No. of customer  delayed: 124----
+
+Next event: Customer 124 Departure
+Next event: Customer 125 Arrival
+
+----No. of customer  delayed: 125----
+
+Next event: Customer 126 Arrival
+Next event: Customer 125 Departure
+
+----No. of customer  delayed: 126----
+
+Next event: Customer 126 Departure
+Next event: Customer 127 Arrival
+
+----No. of customer  delayed: 127----
+
+Next event: Customer 127 Departure
+Next event: Customer 128 Arrival
+
+----No. of customer  delayed: 128----
+
+Next event: Customer 128 Departure
+Next event: Customer 129 Arrival
+
+----No. of customer  delayed: 129----
+
+Next event: Customer 129 Departure
+Next event: Customer 130 Arrival
+
+----No. of customer  delayed: 130----
+
+Next event: Customer 130 Departure
+Next event: Customer 131 Arrival
+
+----No. of customer  delayed: 131----
+
+Next event: Customer 131 Departure
+Next event: Customer 132 Arrival
+
+----No. of customer  delayed: 132----
+
+Next event: Customer 133 Arrival
+Next event: Customer 132 Departure
+
+----No. of customer  delayed: 133----
+
+Next event: Customer 134 Arrival
+Next event: Customer 135 Arrival
+Next event: Customer 133 Departure
+
+----No. of customer  delayed: 134----
+
+Next event: Customer 134 Departure
+
+----No. of customer  delayed: 135----
+
+Next event: Customer 135 Departure
+Next event: Customer 136 Arrival
+
+----No. of customer  delayed: 136----
+
+Next event: Customer 136 Departure
+Next event: Customer 137 Arrival
+
+----No. of customer  delayed: 137----
+
+Next event: Customer 137 Departure
+Next event: Customer 138 Arrival
+
+----No. of customer  delayed: 138----
+
+Next event: Customer 139 Arrival
+Next event: Customer 140 Arrival
+Next event: Customer 138 Departure
+
+----No. of customer  delayed: 139----
+
+Next event: Customer 141 Arrival
+Next event: Customer 139 Departure
+
+----No. of customer  delayed: 140----
+
+Next event: Customer 142 Arrival
+Next event: Customer 140 Departure
+
+----No. of customer  delayed: 141----
+
+Next event: Customer 141 Departure
+
+----No. of customer  delayed: 142----
+
+Next event: Customer 142 Departure
+Next event: Customer 143 Arrival
+
+----No. of customer  delayed: 143----
+
+Next event: Customer 143 Departure
+Next event: Customer 144 Arrival
+
+----No. of customer  delayed: 144----
+
+Next event: Customer 145 Arrival
+Next event: Customer 144 Departure
+
+----No. of customer  delayed: 145----
+
+Next event: Customer 146 Arrival
+Next event: Customer 147 Arrival
+Next event: Customer 145 Departure
+
+----No. of customer  delayed: 146----
+
+Next event: Customer 146 Departure
+
+----No. of customer  delayed: 147----
+
+Next event: Customer 147 Departure
+Next event: Customer 148 Arrival
+
+----No. of customer  delayed: 148----
+
+Next event: Customer 149 Arrival
+Next event: Customer 150 Arrival
+Next event: Customer 148 Departure
+
+----No. of customer  delayed: 149----
+
+Next event: Customer 151 Arrival
+Next event: Customer 152 Arrival
+Next event: Customer 153 Arrival
+Next event: Customer 149 Departure
+
+----No. of customer  delayed: 150----
+
+Next event: Customer 150 Departure
+
+----No. of customer  delayed: 151----
+
+Next event: Customer 151 Departure
+
+----No. of customer  delayed: 152----
+
+Next event: Customer 152 Departure
+
+----No. of customer  delayed: 153----
+
+Next event: Customer 154 Arrival
+Next event: Customer 155 Arrival
+Next event: Customer 153 Departure
+
+----No. of customer  delayed: 154----
+
+Next event: Customer 154 Departure
+
+----No. of customer  delayed: 155----
+
+Next event: Customer 155 Departure
+Next event: Customer 156 Arrival
+
+----No. of customer  delayed: 156----
+
+Next event: Customer 156 Departure
+Next event: Customer 157 Arrival
+
+----No. of customer  delayed: 157----
+
+Next event: Customer 158 Arrival
+Next event: Customer 157 Departure
+
+----No. of customer  delayed: 158----
+
+Next event: Customer 159 Arrival
+Next event: Customer 160 Arrival
+Next event: Customer 161 Arrival
+Next event: Customer 158 Departure
+
+----No. of customer  delayed: 159----
+
+Next event: Customer 162 Arrival
+Next event: Customer 159 Departure
+
+----No. of customer  delayed: 160----
+
+Next event: Customer 160 Departure
+
+----No. of customer  delayed: 161----
+
+Next event: Customer 161 Departure
+
+----No. of customer  delayed: 162----
+
+Next event: Customer 163 Arrival
+Next event: Customer 162 Departure
+
+----No. of customer  delayed: 163----
+
+Next event: Customer 164 Arrival
+Next event: Customer 165 Arrival
+Next event: Customer 163 Departure
+
+----No. of customer  delayed: 164----
+
+Next event: Customer 166 Arrival
+Next event: Customer 164 Departure
+
+----No. of customer  delayed: 165----
+
+Next event: Customer 167 Arrival
+Next event: Customer 165 Departure
+
+----No. of customer  delayed: 166----
+
+Next event: Customer 166 Departure
+
+----No. of customer  delayed: 167----
+
+Next event: Customer 168 Arrival
+Next event: Customer 167 Departure
+
+----No. of customer  delayed: 168----
+
+Next event: Customer 168 Departure
+Next event: Customer 169 Arrival
+
+----No. of customer  delayed: 169----
+
+Next event: Customer 169 Departure
+Next event: Customer 170 Arrival
+
+----No. of customer  delayed: 170----
+
+Next event: Customer 170 Departure
+Next event: Customer 171 Arrival
+
+----No. of customer  delayed: 171----
+
+Next event: Customer 171 Departure
+Next event: Customer 172 Arrival
+
+----No. of customer  delayed: 172----
+
+Next event: Customer 172 Departure
+Next event: Customer 173 Arrival
+
+----No. of customer  delayed: 173----
+
+Next event: Customer 173 Departure
+Next event: Customer 174 Arrival
+
+----No. of customer  delayed: 174----
+
+Next event: Customer 175 Arrival
+Next event: Customer 176 Arrival
+Next event: Customer 174 Departure
+
+----No. of customer  delayed: 175----
+
+Next event: Customer 175 Departure
+
+----No. of customer  delayed: 176----
+
+Next event: Customer 177 Arrival
+Next event: Customer 178 Arrival
+Next event: Customer 176 Departure
+
+----No. of customer  delayed: 177----
+
+Next event: Customer 179 Arrival
+Next event: Customer 177 Departure
+
+----No. of customer  delayed: 178----
+
+Next event: Customer 180 Arrival
+Next event: Customer 181 Arrival
+Next event: Customer 178 Departure
+
+----No. of customer  delayed: 179----
+
+Next event: Customer 179 Departure
+
+----No. of customer  delayed: 180----
+
+Next event: Customer 180 Departure
+
+----No. of customer  delayed: 181----
+
+Next event: Customer 181 Departure
+Next event: Customer 182 Arrival
+
+----No. of customer  delayed: 182----
+
+Next event: Customer 182 Departure
+Next event: Customer 183 Arrival
+
+----No. of customer  delayed: 183----
+
+Next event: Customer 183 Departure
+Next event: Customer 184 Arrival
+
+----No. of customer  delayed: 184----
+
+Next event: Customer 184 Departure
+Next event: Customer 185 Arrival
+
+----No. of customer  delayed: 185----
+
+Next event: Customer 185 Departure
+Next event: Customer 186 Arrival
+
+----No. of customer  delayed: 186----
+
+Next event: Customer 186 Departure
+Next event: Customer 187 Arrival
+
+----No. of customer  delayed: 187----
+
+Next event: Customer 187 Departure
+Next event: Customer 188 Arrival
+
+----No. of customer  delayed: 188----
+
+Next event: Customer 188 Departure
+Next event: Customer 189 Arrival
+
+----No. of customer  delayed: 189----
+
+Next event: Customer 189 Departure
+Next event: Customer 190 Arrival
+
+----No. of customer  delayed: 190----
+
+Next event: Customer 191 Arrival
+Next event: Customer 190 Departure
+
+----No. of customer  delayed: 191----
+
+Next event: Customer 191 Departure
+Next event: Customer 192 Arrival
+
+----No. of customer  delayed: 192----
+
+Next event: Customer 192 Departure
+Next event: Customer 193 Arrival
+
+----No. of customer  delayed: 193----
+
+Next event: Customer 193 Departure
+Next event: Customer 194 Arrival
+
+----No. of customer  delayed: 194----
+
+Next event: Customer 195 Arrival
+Next event: Customer 196 Arrival
+Next event: Customer 194 Departure
+
+----No. of customer  delayed: 195----
+
+Next event: Customer 195 Departure
+
+----No. of customer  delayed: 196----
+
+Next event: Customer 196 Departure
+Next event: Customer 197 Arrival
+
+----No. of customer  delayed: 197----
+
+Next event: Customer 197 Departure
+Next event: Customer 198 Arrival
+
+----No. of customer  delayed: 198----
+
+Next event: Customer 198 Departure
+Next event: Customer 199 Arrival
+
+----No. of customer  delayed: 199----
+
+Next event: Customer 200 Arrival
+Next event: Customer 199 Departure
+
+----No. of customer  delayed: 200----
+
+Next event: Customer 201 Arrival
+Next event: Customer 202 Arrival
+Next event: Customer 200 Departure
+
+----No. of customer  delayed: 201----
+
+Next event: Customer 201 Departure
+
+----No. of customer  delayed: 202----
+
+Next event: Customer 203 Arrival
+Next event: Customer 204 Arrival
+Next event: Customer 202 Departure
+
+----No. of customer  delayed: 203----
+
+Next event: Customer 203 Departure
+
+----No. of customer  delayed: 204----
+
+Next event: Customer 204 Departure
+Next event: Customer 205 Arrival
+
+----No. of customer  delayed: 205----
+
+Next event: Customer 206 Arrival
+Next event: Customer 207 Arrival
+Next event: Customer 208 Arrival
+Next event: Customer 205 Departure
+
+----No. of customer  delayed: 206----
+
+Next event: Customer 206 Departure
+
+----No. of customer  delayed: 207----
+
+Next event: Customer 207 Departure
+
+----No. of customer  delayed: 208----
+
+Next event: Customer 208 Departure
+Next event: Customer 209 Arrival
+
+----No. of customer  delayed: 209----
+
+Next event: Customer 210 Arrival
+Next event: Customer 211 Arrival
+Next event: Customer 209 Departure
+
+----No. of customer  delayed: 210----
+
+Next event: Customer 210 Departure
+
+----No. of customer  delayed: 211----
+
+Next event: Customer 211 Departure
+Next event: Customer 212 Arrival
+
+----No. of customer  delayed: 212----
+
+Next event: Customer 212 Departure
+Next event: Customer 213 Arrival
+
+----No. of customer  delayed: 213----
+
+Next event: Customer 213 Departure
+Next event: Customer 214 Arrival
+
+----No. of customer  delayed: 214----
+
+Next event: Customer 214 Departure
+Next event: Customer 215 Arrival
+
+----No. of customer  delayed: 215----
+
+Next event: Customer 215 Departure
+Next event: Customer 216 Arrival
+
+----No. of customer  delayed: 216----
+
+Next event: Customer 217 Arrival
+Next event: Customer 218 Arrival
+Next event: Customer 219 Arrival
+Next event: Customer 216 Departure
+
+----No. of customer  delayed: 217----
+
+Next event: Customer 217 Departure
+
+----No. of customer  delayed: 218----
+
+Next event: Customer 220 Arrival
+Next event: Customer 218 Departure
+
+----No. of customer  delayed: 219----
+
+Next event: Customer 219 Departure
+
+----No. of customer  delayed: 220----
+
+Next event: Customer 220 Departure
+Next event: Customer 221 Arrival
+
+----No. of customer  delayed: 221----
+
+Next event: Customer 221 Departure
+Next event: Customer 222 Arrival
+
+----No. of customer  delayed: 222----
+
+Next event: Customer 223 Arrival
+Next event: Customer 222 Departure
+
+----No. of customer  delayed: 223----
+
+Next event: Customer 223 Departure
+Next event: Customer 224 Arrival
+
+----No. of customer  delayed: 224----
+
+Next event: Customer 224 Departure
+Next event: Customer 225 Arrival
+
+----No. of customer  delayed: 225----
+
+Next event: Customer 225 Departure
+Next event: Customer 226 Arrival
+
+----No. of customer  delayed: 226----
+
+Next event: Customer 227 Arrival
+Next event: Customer 226 Departure
+
+----No. of customer  delayed: 227----
+
+Next event: Customer 227 Departure
+Next event: Customer 228 Arrival
+
+----No. of customer  delayed: 228----
+
+Next event: Customer 228 Departure
+Next event: Customer 229 Arrival
+
+----No. of customer  delayed: 229----
+
+Next event: Customer 230 Arrival
+Next event: Customer 229 Departure
+
+----No. of customer  delayed: 230----
+
+Next event: Customer 230 Departure
+Next event: Customer 231 Arrival
+
+----No. of customer  delayed: 231----
+
+Next event: Customer 231 Departure
+Next event: Customer 232 Arrival
+
+----No. of customer  delayed: 232----
+
+Next event: Customer 233 Arrival
+Next event: Customer 232 Departure
+
+----No. of customer  delayed: 233----
+
+Next event: Customer 233 Departure
+Next event: Customer 234 Arrival
+
+----No. of customer  delayed: 234----
+
+Next event: Customer 234 Departure
+Next event: Customer 235 Arrival
+
+----No. of customer  delayed: 235----
+
+Next event: Customer 236 Arrival
+Next event: Customer 237 Arrival
+Next event: Customer 235 Departure
+
+----No. of customer  delayed: 236----
+
+Next event: Customer 238 Arrival
+Next event: Customer 236 Departure
+
+----No. of customer  delayed: 237----
+
+Next event: Customer 239 Arrival
+Next event: Customer 240 Arrival
+Next event: Customer 237 Departure
+
+----No. of customer  delayed: 238----
+
+Next event: Customer 238 Departure
+
+----No. of customer  delayed: 239----
+
+Next event: Customer 241 Arrival
+Next event: Customer 239 Departure
+
+----No. of customer  delayed: 240----
+
+Next event: Customer 240 Departure
+
+----No. of customer  delayed: 241----
+
+Next event: Customer 241 Departure
+Next event: Customer 242 Arrival
+
+----No. of customer  delayed: 242----
+
+Next event: Customer 243 Arrival
+Next event: Customer 244 Arrival
+Next event: Customer 242 Departure
+
+----No. of customer  delayed: 243----
+
+Next event: Customer 243 Departure
+
+----No. of customer  delayed: 244----
+
+Next event: Customer 245 Arrival
+Next event: Customer 246 Arrival
+Next event: Customer 244 Departure
+
+----No. of customer  delayed: 245----
+
+Next event: Customer 245 Departure
+
+----No. of customer  delayed: 246----
+
+Next event: Customer 246 Departure
+Next event: Customer 247 Arrival
+
+----No. of customer  delayed: 247----
+
+Next event: Customer 247 Departure
+Next event: Customer 248 Arrival
+
+----No. of customer  delayed: 248----
+
+Next event: Customer 249 Arrival
+Next event: Customer 248 Departure
+
+----No. of customer  delayed: 249----
+
+Next event: Customer 249 Departure
+Next event: Customer 250 Arrival
+
+----No. of customer  delayed: 250----
+
+Next event: Customer 250 Departure
+Next event: Customer 251 Arrival
+
+----No. of customer  delayed: 251----
+
+Next event: Customer 251 Departure
+Next event: Customer 252 Arrival
+
+----No. of customer  delayed: 252----
+
+Next event: Customer 252 Departure
+Next event: Customer 253 Arrival
+
+----No. of customer  delayed: 253----
+
+Next event: Customer 253 Departure
+Next event: Customer 254 Arrival
+
+----No. of customer  delayed: 254----
+
+Next event: Customer 255 Arrival
+Next event: Customer 256 Arrival
+Next event: Customer 254 Departure
+
+----No. of customer  delayed: 255----
+
+Next event: Customer 255 Departure
+
+----No. of customer  delayed: 256----
+
+Next event: Customer 256 Departure
+Next event: Customer 257 Arrival
+
+----No. of customer  delayed: 257----
+
+Next event: Customer 257 Departure
+Next event: Customer 258 Arrival
+
+----No. of customer  delayed: 258----
+
+Next event: Customer 258 Departure
+Next event: Customer 259 Arrival
+
+----No. of customer  delayed: 259----
+
+Next event: Customer 260 Arrival
+Next event: Customer 259 Departure
+
+----No. of customer  delayed: 260----
+
+Next event: Customer 260 Departure
+Next event: Customer 261 Arrival
+
+----No. of customer  delayed: 261----
+
+Next event: Customer 262 Arrival
+Next event: Customer 261 Departure
+
+----No. of customer  delayed: 262----
+
+Next event: Customer 262 Departure
+Next event: Customer 263 Arrival
+
+----No. of customer  delayed: 263----
+
+Next event: Customer 263 Departure
+Next event: Customer 264 Arrival
+
+----No. of customer  delayed: 264----
+
+Next event: Customer 264 Departure
+Next event: Customer 265 Arrival
+
+----No. of customer  delayed: 265----
+
+Next event: Customer 265 Departure
+Next event: Customer 266 Arrival
+
+----No. of customer  delayed: 266----
+
+Next event: Customer 267 Arrival
+Next event: Customer 266 Departure
+
+----No. of customer  delayed: 267----
+
+Next event: Customer 267 Departure
+Next event: Customer 268 Arrival
+
+----No. of customer  delayed: 268----
+
+Next event: Customer 268 Departure
+Next event: Customer 269 Arrival
+
+----No. of customer  delayed: 269----
+
+Next event: Customer 270 Arrival
+Next event: Customer 271 Arrival
+Next event: Customer 269 Departure
+
+----No. of customer  delayed: 270----
+
+Next event: Customer 272 Arrival
+Next event: Customer 270 Departure
+
+----No. of customer  delayed: 271----
+
+Next event: Customer 271 Departure
+
+----No. of customer  delayed: 272----
+
+Next event: Customer 272 Departure
+Next event: Customer 273 Arrival
+
+----No. of customer  delayed: 273----
+
+Next event: Customer 274 Arrival
+Next event: Customer 275 Arrival
+Next event: Customer 273 Departure
+
+----No. of customer  delayed: 274----
+
+Next event: Customer 276 Arrival
+Next event: Customer 274 Departure
+
+----No. of customer  delayed: 275----
+
+Next event: Customer 277 Arrival
+Next event: Customer 275 Departure
+
+----No. of customer  delayed: 276----
+
+Next event: Customer 276 Departure
+
+----No. of customer  delayed: 277----
+
+Next event: Customer 277 Departure
+Next event: Customer 278 Arrival
+
+----No. of customer  delayed: 278----
+
+Next event: Customer 278 Departure
+Next event: Customer 279 Arrival
+
+----No. of customer  delayed: 279----
+
+Next event: Customer 280 Arrival
+Next event: Customer 281 Arrival
+Next event: Customer 279 Departure
+
+----No. of customer  delayed: 280----
+
+Next event: Customer 282 Arrival
+Next event: Customer 280 Departure
+
+----No. of customer  delayed: 281----
+
+Next event: Customer 281 Departure
+
+----No. of customer  delayed: 282----
+
+Next event: Customer 282 Departure
+Next event: Customer 283 Arrival
+
+----No. of customer  delayed: 283----
+
+Next event: Customer 283 Departure
+Next event: Customer 284 Arrival
+
+----No. of customer  delayed: 284----
+
+Next event: Customer 284 Departure
+Next event: Customer 285 Arrival
+
+----No. of customer  delayed: 285----
+
+Next event: Customer 285 Departure
+Next event: Customer 286 Arrival
+
+----No. of customer  delayed: 286----
+
+Next event: Customer 287 Arrival
+Next event: Customer 286 Departure
+
+----No. of customer  delayed: 287----
+
+Next event: Customer 287 Departure
+Next event: Customer 288 Arrival
+
+----No. of customer  delayed: 288----
+
+Next event: Customer 289 Arrival
+Next event: Customer 288 Departure
+
+----No. of customer  delayed: 289----
+
+Next event: Customer 289 Departure
+Next event: Customer 290 Arrival
+
+----No. of customer  delayed: 290----
+
+Next event: Customer 291 Arrival
+Next event: Customer 290 Departure
+
+----No. of customer  delayed: 291----
+
+Next event: Customer 292 Arrival
+Next event: Customer 291 Departure
+
+----No. of customer  delayed: 292----
+
+Next event: Customer 292 Departure
+Next event: Customer 293 Arrival
+
+----No. of customer  delayed: 293----
+
+Next event: Customer 294 Arrival
+Next event: Customer 293 Departure
+
+----No. of customer  delayed: 294----
+
+Next event: Customer 295 Arrival
+Next event: Customer 294 Departure
+
+----No. of customer  delayed: 295----
+
+Next event: Customer 296 Arrival
+Next event: Customer 297 Arrival
+Next event: Customer 295 Departure
+
+----No. of customer  delayed: 296----
+
+Next event: Customer 296 Departure
+
+----No. of customer  delayed: 297----
+
+Next event: Customer 297 Departure
+Next event: Customer 298 Arrival
+
+----No. of customer  delayed: 298----
+
+Next event: Customer 298 Departure
+Next event: Customer 299 Arrival
+
+----No. of customer  delayed: 299----
+
+Next event: Customer 300 Arrival
+Next event: Customer 299 Departure
+
+----No. of customer  delayed: 300----
+
+Next event: Customer 300 Departure
+Next event: Customer 301 Arrival
+
+----No. of customer  delayed: 301----
+
+Next event: Customer 301 Departure
+Next event: Customer 302 Arrival
+
+----No. of customer  delayed: 302----
+
+Next event: Customer 302 Departure
+Next event: Customer 303 Arrival
+
+----No. of customer  delayed: 303----
+
+Next event: Customer 303 Departure
+Next event: Customer 304 Arrival
+
+----No. of customer  delayed: 304----
+
+Next event: Customer 305 Arrival
+Next event: Customer 304 Departure
+
+----No. of customer  delayed: 305----
+
+Next event: Customer 306 Arrival
+Next event: Customer 307 Arrival
+Next event: Customer 305 Departure
+
+----No. of customer  delayed: 306----
+
+Next event: Customer 308 Arrival
+Next event: Customer 306 Departure
+
+----No. of customer  delayed: 307----
+
+Next event: Customer 307 Departure
+
+----No. of customer  delayed: 308----
+
+Next event: Customer 308 Departure
+Next event: Customer 309 Arrival
+
+----No. of customer  delayed: 309----
+
+Next event: Customer 309 Departure
+Next event: Customer 310 Arrival
+
+----No. of customer  delayed: 310----
+
+Next event: Customer 311 Arrival
+Next event: Customer 312 Arrival
+Next event: Customer 310 Departure
+
+----No. of customer  delayed: 311----
+
+Next event: Customer 311 Departure
+
+----No. of customer  delayed: 312----
+
+Next event: Customer 313 Arrival
+Next event: Customer 314 Arrival
+Next event: Customer 312 Departure
+
+----No. of customer  delayed: 313----
+
+Next event: Customer 315 Arrival
+Next event: Customer 313 Departure
+
+----No. of customer  delayed: 314----
+
+Next event: Customer 314 Departure
+
+----No. of customer  delayed: 315----
+
+Next event: Customer 315 Departure
+Next event: Customer 316 Arrival
+
+----No. of customer  delayed: 316----
+
+Next event: Customer 316 Departure
+Next event: Customer 317 Arrival
+
+----No. of customer  delayed: 317----
+
+Next event: Customer 317 Departure
+Next event: Customer 318 Arrival
+
+----No. of customer  delayed: 318----
+
+Next event: Customer 318 Departure
+Next event: Customer 319 Arrival
+
+----No. of customer  delayed: 319----
+
+Next event: Customer 319 Departure
+Next event: Customer 320 Arrival
+
+----No. of customer  delayed: 320----
+
+Next event: Customer 320 Departure
+Next event: Customer 321 Arrival
+
+----No. of customer  delayed: 321----
+
+Next event: Customer 322 Arrival
+Next event: Customer 321 Departure
+
+----No. of customer  delayed: 322----
+
+Next event: Customer 322 Departure
+Next event: Customer 323 Arrival
+
+----No. of customer  delayed: 323----
+
+Next event: Customer 323 Departure
+Next event: Customer 324 Arrival
+
+----No. of customer  delayed: 324----
+
+Next event: Customer 325 Arrival
+Next event: Customer 324 Departure
+
+----No. of customer  delayed: 325----
+
+Next event: Customer 325 Departure
+Next event: Customer 326 Arrival
+
+----No. of customer  delayed: 326----
+
+Next event: Customer 326 Departure
+Next event: Customer 327 Arrival
+
+----No. of customer  delayed: 327----
+
+Next event: Customer 328 Arrival
+Next event: Customer 327 Departure
+
+----No. of customer  delayed: 328----
+
+Next event: Customer 328 Departure
+Next event: Customer 329 Arrival
+
+----No. of customer  delayed: 329----
+
+Next event: Customer 329 Departure
+Next event: Customer 330 Arrival
+
+----No. of customer  delayed: 330----
+
+Next event: Customer 330 Departure
+Next event: Customer 331 Arrival
+
+----No. of customer  delayed: 331----
+
+Next event: Customer 331 Departure
+Next event: Customer 332 Arrival
+
+----No. of customer  delayed: 332----
+
+Next event: Customer 332 Departure
+Next event: Customer 333 Arrival
+
+----No. of customer  delayed: 333----
+
+Next event: Customer 334 Arrival
+Next event: Customer 335 Arrival
+Next event: Customer 336 Arrival
+Next event: Customer 333 Departure
+
+----No. of customer  delayed: 334----
+
+Next event: Customer 334 Departure
+
+----No. of customer  delayed: 335----
+
+Next event: Customer 335 Departure
+
+----No. of customer  delayed: 336----
+
+Next event: Customer 336 Departure
+Next event: Customer 337 Arrival
+
+----No. of customer  delayed: 337----
+
+Next event: Customer 338 Arrival
+Next event: Customer 339 Arrival
+Next event: Customer 340 Arrival
+Next event: Customer 337 Departure
+
+----No. of customer  delayed: 338----
+
+Next event: Customer 341 Arrival
+Next event: Customer 338 Departure
+
+----No. of customer  delayed: 339----
+
+Next event: Customer 339 Departure
+
+----No. of customer  delayed: 340----
+
+Next event: Customer 340 Departure
+
+----No. of customer  delayed: 341----
+
+Next event: Customer 341 Departure
+Next event: Customer 342 Arrival
+
+----No. of customer  delayed: 342----
+
+Next event: Customer 342 Departure
+Next event: Customer 343 Arrival
+
+----No. of customer  delayed: 343----
+
+Next event: Customer 343 Departure
+Next event: Customer 344 Arrival
+
+----No. of customer  delayed: 344----
+
+Next event: Customer 344 Departure
+Next event: Customer 345 Arrival
+
+----No. of customer  delayed: 345----
+
+Next event: Customer 345 Departure
+Next event: Customer 346 Arrival
+
+----No. of customer  delayed: 346----
+
+Next event: Customer 346 Departure
+Next event: Customer 347 Arrival
+
+----No. of customer  delayed: 347----
+
+Next event: Customer 347 Departure
+Next event: Customer 348 Arrival
+
+----No. of customer  delayed: 348----
+
+Next event: Customer 348 Departure
+Next event: Customer 349 Arrival
+
+----No. of customer  delayed: 349----
+
+Next event: Customer 350 Arrival
+Next event: Customer 349 Departure
+
+----No. of customer  delayed: 350----
+
+Next event: Customer 351 Arrival
+Next event: Customer 352 Arrival
+Next event: Customer 350 Departure
+
+----No. of customer  delayed: 351----
+
+Next event: Customer 353 Arrival
+Next event: Customer 351 Departure
+
+----No. of customer  delayed: 352----
+
+Next event: Customer 352 Departure
+
+----No. of customer  delayed: 353----
+
+Next event: Customer 353 Departure
+Next event: Customer 354 Arrival
+
+----No. of customer  delayed: 354----
+
+Next event: Customer 354 Departure
+Next event: Customer 355 Arrival
+
+----No. of customer  delayed: 355----
+
+Next event: Customer 355 Departure
+Next event: Customer 356 Arrival
+
+----No. of customer  delayed: 356----
+
+Next event: Customer 356 Departure
+Next event: Customer 357 Arrival
+
+----No. of customer  delayed: 357----
+
+Next event: Customer 357 Departure
+Next event: Customer 358 Arrival
+
+----No. of customer  delayed: 358----
+
+Next event: Customer 359 Arrival
+Next event: Customer 360 Arrival
+Next event: Customer 358 Departure
+
+----No. of customer  delayed: 359----
+
+Next event: Customer 361 Arrival
+Next event: Customer 359 Departure
+
+----No. of customer  delayed: 360----
+
+Next event: Customer 362 Arrival
+Next event: Customer 360 Departure
+
+----No. of customer  delayed: 361----
+
+Next event: Customer 361 Departure
+
+----No. of customer  delayed: 362----
+
+Next event: Customer 362 Departure
+Next event: Customer 363 Arrival
+
+----No. of customer  delayed: 363----
+
+Next event: Customer 363 Departure
+Next event: Customer 364 Arrival
+
+----No. of customer  delayed: 364----
+
+Next event: Customer 365 Arrival
+Next event: Customer 366 Arrival
+Next event: Customer 364 Departure
+
+----No. of customer  delayed: 365----
+
+Next event: Customer 367 Arrival
+Next event: Customer 365 Departure
+
+----No. of customer  delayed: 366----
+
+Next event: Customer 366 Departure
+
+----No. of customer  delayed: 367----
+
+Next event: Customer 367 Departure
+Next event: Customer 368 Arrival
+
+----No. of customer  delayed: 368----
+
+Next event: Customer 368 Departure
+Next event: Customer 369 Arrival
+
+----No. of customer  delayed: 369----
+
+Next event: Customer 369 Departure
+Next event: Customer 370 Arrival
+
+----No. of customer  delayed: 370----
+
+Next event: Customer 371 Arrival
+Next event: Customer 372 Arrival
+Next event: Customer 373 Arrival
+Next event: Customer 370 Departure
+
+----No. of customer  delayed: 371----
+
+Next event: Customer 374 Arrival
+Next event: Customer 375 Arrival
+Next event: Customer 371 Departure
+
+----No. of customer  delayed: 372----
+
+Next event: Customer 372 Departure
+
+----No. of customer  delayed: 373----
+
+Next event: Customer 376 Arrival
+Next event: Customer 377 Arrival
+Next event: Customer 378 Arrival
+Next event: Customer 379 Arrival
+Next event: Customer 373 Departure
+
+----No. of customer  delayed: 374----
+
+Next event: Customer 374 Departure
+
+----No. of customer  delayed: 375----
+
+Next event: Customer 375 Departure
+
+----No. of customer  delayed: 376----
+
+Next event: Customer 376 Departure
+
+----No. of customer  delayed: 377----
+
+Next event: Customer 380 Arrival
+Next event: Customer 377 Departure
+
+----No. of customer  delayed: 378----
+
+Next event: Customer 378 Departure
+
+----No. of customer  delayed: 379----
+
+Next event: Customer 379 Departure
+
+----No. of customer  delayed: 380----
+
+Next event: Customer 381 Arrival
+Next event: Customer 382 Arrival
+Next event: Customer 380 Departure
+
+----No. of customer  delayed: 381----
+
+Next event: Customer 381 Departure
+
+----No. of customer  delayed: 382----
+
+Next event: Customer 383 Arrival
+Next event: Customer 382 Departure
+
+----No. of customer  delayed: 383----
+
+Next event: Customer 384 Arrival
+Next event: Customer 383 Departure
+
+----No. of customer  delayed: 384----
+
+Next event: Customer 384 Departure
+Next event: Customer 385 Arrival
+
+----No. of customer  delayed: 385----
+
+Next event: Customer 385 Departure
+Next event: Customer 386 Arrival
+
+----No. of customer  delayed: 386----
+
+Next event: Customer 387 Arrival
+Next event: Customer 386 Departure
+
+----No. of customer  delayed: 387----
+
+Next event: Customer 388 Arrival
+Next event: Customer 387 Departure
+
+----No. of customer  delayed: 388----
+
+Next event: Customer 389 Arrival
+Next event: Customer 390 Arrival
+Next event: Customer 388 Departure
+
+----No. of customer  delayed: 389----
+
+Next event: Customer 389 Departure
+
+----No. of customer  delayed: 390----
+
+Next event: Customer 390 Departure
+Next event: Customer 391 Arrival
+
+----No. of customer  delayed: 391----
+
+Next event: Customer 391 Departure
+Next event: Customer 392 Arrival
+
+----No. of customer  delayed: 392----
+
+Next event: Customer 392 Departure
+Next event: Customer 393 Arrival
+
+----No. of customer  delayed: 393----
+
+Next event: Customer 393 Departure
+Next event: Customer 394 Arrival
+
+----No. of customer  delayed: 394----
+
+Next event: Customer 395 Arrival
+Next event: Customer 394 Departure
+
+----No. of customer  delayed: 395----
+
+Next event: Customer 395 Departure
+Next event: Customer 396 Arrival
+
+----No. of customer  delayed: 396----
+
+Next event: Customer 397 Arrival
+Next event: Customer 396 Departure
+
+----No. of customer  delayed: 397----
+
+Next event: Customer 397 Departure
+Next event: Customer 398 Arrival
+
+----No. of customer  delayed: 398----
+
+Next event: Customer 399 Arrival
+Next event: Customer 398 Departure
+
+----No. of customer  delayed: 399----
+
+Next event: Customer 400 Arrival
+Next event: Customer 399 Departure
+
+----No. of customer  delayed: 400----
+
+Next event: Customer 400 Departure
+Next event: Customer 401 Arrival
+
+----No. of customer  delayed: 401----
+
+Next event: Customer 401 Departure
+Next event: Customer 402 Arrival
+
+----No. of customer  delayed: 402----
+
+Next event: Customer 403 Arrival
+Next event: Customer 402 Departure
+
+----No. of customer  delayed: 403----
+
+Next event: Customer 403 Departure
+Next event: Customer 404 Arrival
+
+----No. of customer  delayed: 404----
+
+Next event: Customer 404 Departure
+Next event: Customer 405 Arrival
+
+----No. of customer  delayed: 405----
+
+Next event: Customer 406 Arrival
+Next event: Customer 405 Departure
+
+----No. of customer  delayed: 406----
+
+Next event: Customer 406 Departure
+Next event: Customer 407 Arrival
+
+----No. of customer  delayed: 407----
+
+Next event: Customer 407 Departure
+Next event: Customer 408 Arrival
+
+----No. of customer  delayed: 408----
+
+Next event: Customer 408 Departure
+Next event: Customer 409 Arrival
+
+----No. of customer  delayed: 409----
+
+Next event: Customer 409 Departure
+Next event: Customer 410 Arrival
+
+----No. of customer  delayed: 410----
+
+Next event: Customer 410 Departure
+Next event: Customer 411 Arrival
+
+----No. of customer  delayed: 411----
+
+Next event: Customer 411 Departure
+Next event: Customer 412 Arrival
+
+----No. of customer  delayed: 412----
+
+Next event: Customer 412 Departure
+Next event: Customer 413 Arrival
+
+----No. of customer  delayed: 413----
+
+Next event: Customer 414 Arrival
+Next event: Customer 413 Departure
+
+----No. of customer  delayed: 414----
+
+Next event: Customer 415 Arrival
+Next event: Customer 414 Departure
+
+----No. of customer  delayed: 415----
+
+Next event: Customer 415 Departure
+Next event: Customer 416 Arrival
+
+----No. of customer  delayed: 416----
+
+Next event: Customer 417 Arrival
+Next event: Customer 416 Departure
+
+----No. of customer  delayed: 417----
+
+Next event: Customer 418 Arrival
+Next event: Customer 419 Arrival
+Next event: Customer 420 Arrival
+Next event: Customer 421 Arrival
+Next event: Customer 417 Departure
+
+----No. of customer  delayed: 418----
+
+Next event: Customer 418 Departure
+
+----No. of customer  delayed: 419----
+
+Next event: Customer 419 Departure
+
+----No. of customer  delayed: 420----
+
+Next event: Customer 420 Departure
+
+----No. of customer  delayed: 421----
+
+Next event: Customer 421 Departure
+Next event: Customer 422 Arrival
+
+----No. of customer  delayed: 422----
+
+Next event: Customer 423 Arrival
+Next event: Customer 424 Arrival
+Next event: Customer 425 Arrival
+Next event: Customer 422 Departure
+
+----No. of customer  delayed: 423----
+
+Next event: Customer 423 Departure
+
+----No. of customer  delayed: 424----
+
+Next event: Customer 424 Departure
+
+----No. of customer  delayed: 425----
+
+Next event: Customer 426 Arrival
+Next event: Customer 425 Departure
+
+----No. of customer  delayed: 426----
+
+Next event: Customer 426 Departure
+Next event: Customer 427 Arrival
+
+----No. of customer  delayed: 427----
+
+Next event: Customer 428 Arrival
+Next event: Customer 429 Arrival
+Next event: Customer 430 Arrival
+Next event: Customer 427 Departure
+
+----No. of customer  delayed: 428----
+
+Next event: Customer 428 Departure
+
+----No. of customer  delayed: 429----
+
+Next event: Customer 429 Departure
+
+----No. of customer  delayed: 430----
+
+Next event: Customer 430 Departure
+Next event: Customer 431 Arrival
+
+----No. of customer  delayed: 431----
+
+Next event: Customer 431 Departure
+Next event: Customer 432 Arrival
+
+----No. of customer  delayed: 432----
+
+Next event: Customer 432 Departure
+Next event: Customer 433 Arrival
+
+----No. of customer  delayed: 433----
+
+Next event: Customer 433 Departure
+Next event: Customer 434 Arrival
+
+----No. of customer  delayed: 434----
+
+Next event: Customer 434 Departure
+Next event: Customer 435 Arrival
+
+----No. of customer  delayed: 435----
+
+Next event: Customer 436 Arrival
+Next event: Customer 435 Departure
+
+----No. of customer  delayed: 436----
+
+Next event: Customer 436 Departure
+Next event: Customer 437 Arrival
+
+----No. of customer  delayed: 437----
+
+Next event: Customer 437 Departure
+Next event: Customer 438 Arrival
+
+----No. of customer  delayed: 438----
+
+Next event: Customer 439 Arrival
+Next event: Customer 440 Arrival
+Next event: Customer 438 Departure
+
+----No. of customer  delayed: 439----
+
+Next event: Customer 439 Departure
+
+----No. of customer  delayed: 440----
+
+Next event: Customer 440 Departure
+Next event: Customer 441 Arrival
+
+----No. of customer  delayed: 441----
+
+Next event: Customer 441 Departure
+Next event: Customer 442 Arrival
+
+----No. of customer  delayed: 442----
+
+Next event: Customer 443 Arrival
+Next event: Customer 442 Departure
+
+----No. of customer  delayed: 443----
+
+Next event: Customer 444 Arrival
+Next event: Customer 445 Arrival
+Next event: Customer 443 Departure
+
+----No. of customer  delayed: 444----
+
+Next event: Customer 444 Departure
+
+----No. of customer  delayed: 445----
+
+Next event: Customer 445 Departure
+Next event: Customer 446 Arrival
+
+----No. of customer  delayed: 446----
+
+Next event: Customer 447 Arrival
+Next event: Customer 446 Departure
+
+----No. of customer  delayed: 447----
+
+Next event: Customer 447 Departure
+Next event: Customer 448 Arrival
+
+----No. of customer  delayed: 448----
+
+Next event: Customer 448 Departure
+Next event: Customer 449 Arrival
+
+----No. of customer  delayed: 449----
+
+Next event: Customer 449 Departure
+Next event: Customer 450 Arrival
+
+----No. of customer  delayed: 450----
+
+Next event: Customer 451 Arrival
+Next event: Customer 450 Departure
+
+----No. of customer  delayed: 451----
+
+Next event: Customer 451 Departure
+Next event: Customer 452 Arrival
+
+----No. of customer  delayed: 452----
+
+Next event: Customer 452 Departure
+Next event: Customer 453 Arrival
+
+----No. of customer  delayed: 453----
+
+Next event: Customer 453 Departure
+Next event: Customer 454 Arrival
+
+----No. of customer  delayed: 454----
+
+Next event: Customer 454 Departure
+Next event: Customer 455 Arrival
+
+----No. of customer  delayed: 455----
+
+Next event: Customer 456 Arrival
+Next event: Customer 455 Departure
+
+----No. of customer  delayed: 456----
+
+Next event: Customer 456 Departure
+Next event: Customer 457 Arrival
+
+----No. of customer  delayed: 457----
+
+Next event: Customer 457 Departure
+Next event: Customer 458 Arrival
+
+----No. of customer  delayed: 458----
+
+Next event: Customer 458 Departure
+Next event: Customer 459 Arrival
+
+----No. of customer  delayed: 459----
+
+Next event: Customer 460 Arrival
+Next event: Customer 461 Arrival
+Next event: Customer 459 Departure
+
+----No. of customer  delayed: 460----
+
+Next event: Customer 460 Departure
+
+----No. of customer  delayed: 461----
+
+Next event: Customer 462 Arrival
+Next event: Customer 461 Departure
+
+----No. of customer  delayed: 462----
+
+Next event: Customer 462 Departure
+Next event: Customer 463 Arrival
+
+----No. of customer  delayed: 463----
+
+Next event: Customer 463 Departure
+Next event: Customer 464 Arrival
+
+----No. of customer  delayed: 464----
+
+Next event: Customer 464 Departure
+Next event: Customer 465 Arrival
+
+----No. of customer  delayed: 465----
+
+Next event: Customer 466 Arrival
+Next event: Customer 467 Arrival
+Next event: Customer 465 Departure
+
+----No. of customer  delayed: 466----
+
+Next event: Customer 468 Arrival
+Next event: Customer 469 Arrival
+Next event: Customer 466 Departure
+
+----No. of customer  delayed: 467----
+
+Next event: Customer 470 Arrival
+Next event: Customer 467 Departure
+
+----No. of customer  delayed: 468----
+
+Next event: Customer 471 Arrival
+Next event: Customer 468 Departure
+
+----No. of customer  delayed: 469----
+
+Next event: Customer 469 Departure
+
+----No. of customer  delayed: 470----
+
+Next event: Customer 470 Departure
+
+----No. of customer  delayed: 471----
+
+Next event: Customer 472 Arrival
+Next event: Customer 471 Departure
+
+----No. of customer  delayed: 472----
+
+Next event: Customer 472 Departure
+Next event: Customer 473 Arrival
+
+----No. of customer  delayed: 473----
+
+Next event: Customer 474 Arrival
+Next event: Customer 473 Departure
+
+----No. of customer  delayed: 474----
+
+Next event: Customer 475 Arrival
+Next event: Customer 474 Departure
+
+----No. of customer  delayed: 475----
+
+Next event: Customer 475 Departure
+Next event: Customer 476 Arrival
+
+----No. of customer  delayed: 476----
+
+Next event: Customer 476 Departure
+Next event: Customer 477 Arrival
+
+----No. of customer  delayed: 477----
+
+Next event: Customer 478 Arrival
+Next event: Customer 477 Departure
+
+----No. of customer  delayed: 478----
+
+Next event: Customer 479 Arrival
+Next event: Customer 478 Departure
+
+----No. of customer  delayed: 479----
+
+Next event: Customer 479 Departure
+Next event: Customer 480 Arrival
+
+----No. of customer  delayed: 480----
+
+Next event: Customer 480 Departure
+Next event: Customer 481 Arrival
+
+----No. of customer  delayed: 481----
+
+Next event: Customer 481 Departure
+Next event: Customer 482 Arrival
+
+----No. of customer  delayed: 482----
+
+Next event: Customer 483 Arrival
+Next event: Customer 482 Departure
+
+----No. of customer  delayed: 483----
+
+Next event: Customer 484 Arrival
+Next event: Customer 483 Departure
+
+----No. of customer  delayed: 484----
+
+Next event: Customer 484 Departure
+Next event: Customer 485 Arrival
+
+----No. of customer  delayed: 485----
+
+Next event: Customer 486 Arrival
+Next event: Customer 485 Departure
+
+----No. of customer  delayed: 486----
+
+Next event: Customer 487 Arrival
+Next event: Customer 488 Arrival
+Next event: Customer 489 Arrival
+Next event: Customer 490 Arrival
+Next event: Customer 491 Arrival
+Next event: Customer 486 Departure
+
+----No. of customer  delayed: 487----
+
+Next event: Customer 487 Departure
+
+----No. of customer  delayed: 488----
+
+Next event: Customer 488 Departure
+
+----No. of customer  delayed: 489----
+
+Next event: Customer 492 Arrival
+Next event: Customer 489 Departure
+
+----No. of customer  delayed: 490----
+
+Next event: Customer 490 Departure
+
+----No. of customer  delayed: 491----
+
+Next event: Customer 493 Arrival
+Next event: Customer 491 Departure
+
+----No. of customer  delayed: 492----
+
+Next event: Customer 492 Departure
+
+----No. of customer  delayed: 493----
+
+Next event: Customer 494 Arrival
+Next event: Customer 493 Departure
+
+----No. of customer  delayed: 494----
+
+Next event: Customer 494 Departure
+Next event: Customer 495 Arrival
+
+----No. of customer  delayed: 495----
+
+Next event: Customer 496 Arrival
+Next event: Customer 495 Departure
+
+----No. of customer  delayed: 496----
+
+Next event: Customer 497 Arrival
+Next event: Customer 496 Departure
+
+----No. of customer  delayed: 497----
+
+Next event: Customer 497 Departure
+Next event: Customer 498 Arrival
+
+----No. of customer  delayed: 498----
+
+Next event: Customer 498 Departure
+Next event: Customer 499 Arrival
+
+----No. of customer  delayed: 499----
+
+Next event: Customer 499 Departure
+Next event: Customer 500 Arrival
+
+----No. of customer  delayed: 500----
+
+Next event: Customer 500 Departure
+Next event: Customer 501 Arrival
+
+----No. of customer  delayed: 501----
+
+Next event: Customer 501 Departure
+Next event: Customer 502 Arrival
+
+----No. of customer  delayed: 502----
+
+Next event: Customer 502 Departure
+Next event: Customer 503 Arrival
+
+----No. of customer  delayed: 503----
+
+Next event: Customer 503 Departure
+Next event: Customer 504 Arrival
+
+----No. of customer  delayed: 504----
+
+Next event: Customer 504 Departure
+Next event: Customer 505 Arrival
+
+----No. of customer  delayed: 505----
+
+Next event: Customer 505 Departure
+Next event: Customer 506 Arrival
+
+----No. of customer  delayed: 506----
+
+Next event: Customer 507 Arrival
+Next event: Customer 506 Departure
+
+----No. of customer  delayed: 507----
+
+Next event: Customer 507 Departure
+Next event: Customer 508 Arrival
+
+----No. of customer  delayed: 508----
+
+Next event: Customer 508 Departure
+Next event: Customer 509 Arrival
+
+----No. of customer  delayed: 509----
+
+Next event: Customer 509 Departure
+Next event: Customer 510 Arrival
+
+----No. of customer  delayed: 510----
+
+Next event: Customer 510 Departure
+Next event: Customer 511 Arrival
+
+----No. of customer  delayed: 511----
+
+Next event: Customer 512 Arrival
+Next event: Customer 511 Departure
+
+----No. of customer  delayed: 512----
+
+Next event: Customer 512 Departure
+Next event: Customer 513 Arrival
+
+----No. of customer  delayed: 513----
+
+Next event: Customer 513 Departure
+Next event: Customer 514 Arrival
+
+----No. of customer  delayed: 514----
+
+Next event: Customer 514 Departure
+Next event: Customer 515 Arrival
+
+----No. of customer  delayed: 515----
+
+Next event: Customer 516 Arrival
+Next event: Customer 515 Departure
+
+----No. of customer  delayed: 516----
+
+Next event: Customer 516 Departure
+Next event: Customer 517 Arrival
+
+----No. of customer  delayed: 517----
+
+Next event: Customer 517 Departure
+Next event: Customer 518 Arrival
+
+----No. of customer  delayed: 518----
+
+Next event: Customer 518 Departure
+Next event: Customer 519 Arrival
+
+----No. of customer  delayed: 519----
+
+Next event: Customer 519 Departure
+Next event: Customer 520 Arrival
+
+----No. of customer  delayed: 520----
+
+Next event: Customer 521 Arrival
+Next event: Customer 520 Departure
+
+----No. of customer  delayed: 521----
+
+Next event: Customer 521 Departure
+Next event: Customer 522 Arrival
+
+----No. of customer  delayed: 522----
+
+Next event: Customer 522 Departure
+Next event: Customer 523 Arrival
+
+----No. of customer  delayed: 523----
+
+Next event: Customer 523 Departure
+Next event: Customer 524 Arrival
+
+----No. of customer  delayed: 524----
+
+Next event: Customer 525 Arrival
+Next event: Customer 526 Arrival
+Next event: Customer 524 Departure
+
+----No. of customer  delayed: 525----
+
+Next event: Customer 527 Arrival
+Next event: Customer 528 Arrival
+Next event: Customer 529 Arrival
+Next event: Customer 530 Arrival
+Next event: Customer 531 Arrival
+Next event: Customer 532 Arrival
+Next event: Customer 525 Departure
+
+----No. of customer  delayed: 526----
+
+Next event: Customer 533 Arrival
+Next event: Customer 526 Departure
+
+----No. of customer  delayed: 527----
+
+Next event: Customer 534 Arrival
+Next event: Customer 535 Arrival
+Next event: Customer 536 Arrival
+Next event: Customer 537 Arrival
+Next event: Customer 538 Arrival
+Next event: Customer 527 Departure
+
+----No. of customer  delayed: 528----
+
+Next event: Customer 539 Arrival
+Next event: Customer 528 Departure
+
+----No. of customer  delayed: 529----
+
+Next event: Customer 529 Departure
+
+----No. of customer  delayed: 530----
+
+Next event: Customer 530 Departure
+
+----No. of customer  delayed: 531----
+
+Next event: Customer 531 Departure
+
+----No. of customer  delayed: 532----
+
+Next event: Customer 532 Departure
+
+----No. of customer  delayed: 533----
+
+Next event: Customer 533 Departure
+
+----No. of customer  delayed: 534----
+
+Next event: Customer 534 Departure
+
+----No. of customer  delayed: 535----
+
+Next event: Customer 535 Departure
+
+----No. of customer  delayed: 536----
+
+Next event: Customer 536 Departure
+
+----No. of customer  delayed: 537----
+
+Next event: Customer 537 Departure
+
+----No. of customer  delayed: 538----
+
+Next event: Customer 538 Departure
+
+----No. of customer  delayed: 539----
+
+Next event: Customer 539 Departure
+Next event: Customer 540 Arrival
+
+----No. of customer  delayed: 540----
+
+Next event: Customer 540 Departure
+Next event: Customer 541 Arrival
+
+----No. of customer  delayed: 541----
+
+Next event: Customer 541 Departure
+Next event: Customer 542 Arrival
+
+----No. of customer  delayed: 542----
+
+Next event: Customer 543 Arrival
+Next event: Customer 544 Arrival
+Next event: Customer 542 Departure
+
+----No. of customer  delayed: 543----
+
+Next event: Customer 545 Arrival
+Next event: Customer 543 Departure
+
+----No. of customer  delayed: 544----
+
+Next event: Customer 544 Departure
+
+----No. of customer  delayed: 545----
+
+Next event: Customer 546 Arrival
+Next event: Customer 545 Departure
+
+----No. of customer  delayed: 546----
+
+Next event: Customer 547 Arrival
+Next event: Customer 546 Departure
+
+----No. of customer  delayed: 547----
+
+Next event: Customer 547 Departure
+Next event: Customer 548 Arrival
+
+----No. of customer  delayed: 548----
+
+Next event: Customer 549 Arrival
+Next event: Customer 548 Departure
+
+----No. of customer  delayed: 549----
+
+Next event: Customer 550 Arrival
+Next event: Customer 549 Departure
+
+----No. of customer  delayed: 550----
+
+Next event: Customer 550 Departure
+Next event: Customer 551 Arrival
+
+----No. of customer  delayed: 551----
+
+Next event: Customer 552 Arrival
+Next event: Customer 553 Arrival
+Next event: Customer 551 Departure
+
+----No. of customer  delayed: 552----
+
+Next event: Customer 552 Departure
+
+----No. of customer  delayed: 553----
+
+Next event: Customer 553 Departure
+Next event: Customer 554 Arrival
+
+----No. of customer  delayed: 554----
+
+Next event: Customer 554 Departure
+Next event: Customer 555 Arrival
+
+----No. of customer  delayed: 555----
+
+Next event: Customer 555 Departure
+Next event: Customer 556 Arrival
+
+----No. of customer  delayed: 556----
+
+Next event: Customer 557 Arrival
+Next event: Customer 558 Arrival
+Next event: Customer 556 Departure
+
+----No. of customer  delayed: 557----
+
+Next event: Customer 557 Departure
+
+----No. of customer  delayed: 558----
+
+Next event: Customer 559 Arrival
+Next event: Customer 558 Departure
+
+----No. of customer  delayed: 559----
+
+Next event: Customer 559 Departure
+Next event: Customer 560 Arrival
+
+----No. of customer  delayed: 560----
+
+Next event: Customer 561 Arrival
+Next event: Customer 560 Departure
+
+----No. of customer  delayed: 561----
+
+Next event: Customer 562 Arrival
+Next event: Customer 563 Arrival
+Next event: Customer 561 Departure
+
+----No. of customer  delayed: 562----
+
+Next event: Customer 564 Arrival
+Next event: Customer 562 Departure
+
+----No. of customer  delayed: 563----
+
+Next event: Customer 563 Departure
+
+----No. of customer  delayed: 564----
+
+Next event: Customer 564 Departure
+Next event: Customer 565 Arrival
+
+----No. of customer  delayed: 565----
+
+Next event: Customer 566 Arrival
+Next event: Customer 565 Departure
+
+----No. of customer  delayed: 566----
+
+Next event: Customer 566 Departure
+Next event: Customer 567 Arrival
+
+----No. of customer  delayed: 567----
+
+Next event: Customer 568 Arrival
+Next event: Customer 567 Departure
+
+----No. of customer  delayed: 568----
+
+Next event: Customer 568 Departure
+Next event: Customer 569 Arrival
+
+----No. of customer  delayed: 569----
+
+Next event: Customer 570 Arrival
+Next event: Customer 571 Arrival
+Next event: Customer 569 Departure
+
+----No. of customer  delayed: 570----
+
+Next event: Customer 570 Departure
+
+----No. of customer  delayed: 571----
+
+Next event: Customer 572 Arrival
+Next event: Customer 573 Arrival
+Next event: Customer 571 Departure
+
+----No. of customer  delayed: 572----
+
+Next event: Customer 574 Arrival
+Next event: Customer 575 Arrival
+Next event: Customer 576 Arrival
+Next event: Customer 572 Departure
+
+----No. of customer  delayed: 573----
+
+Next event: Customer 573 Departure
+
+----No. of customer  delayed: 574----
+
+Next event: Customer 577 Arrival
+Next event: Customer 574 Departure
+
+----No. of customer  delayed: 575----
+
+Next event: Customer 578 Arrival
+Next event: Customer 575 Departure
+
+----No. of customer  delayed: 576----
+
+Next event: Customer 579 Arrival
+Next event: Customer 576 Departure
+
+----No. of customer  delayed: 577----
+
+Next event: Customer 577 Departure
+
+----No. of customer  delayed: 578----
+
+Next event: Customer 578 Departure
+
+----No. of customer  delayed: 579----
+
+Next event: Customer 580 Arrival
+Next event: Customer 579 Departure
+
+----No. of customer  delayed: 580----
+
+Next event: Customer 581 Arrival
+Next event: Customer 580 Departure
+
+----No. of customer  delayed: 581----
+
+Next event: Customer 581 Departure
+Next event: Customer 582 Arrival
+
+----No. of customer  delayed: 582----
+
+Next event: Customer 582 Departure
+Next event: Customer 583 Arrival
+
+----No. of customer  delayed: 583----
+
+Next event: Customer 583 Departure
+Next event: Customer 584 Arrival
+
+----No. of customer  delayed: 584----
+
+Next event: Customer 584 Departure
+Next event: Customer 585 Arrival
+
+----No. of customer  delayed: 585----
+
+Next event: Customer 586 Arrival
+Next event: Customer 585 Departure
+
+----No. of customer  delayed: 586----
+
+Next event: Customer 586 Departure
+Next event: Customer 587 Arrival
+
+----No. of customer  delayed: 587----
+
+Next event: Customer 587 Departure
+Next event: Customer 588 Arrival
+
+----No. of customer  delayed: 588----
+
+Next event: Customer 588 Departure
+Next event: Customer 589 Arrival
+
+----No. of customer  delayed: 589----
+
+Next event: Customer 589 Departure
+Next event: Customer 590 Arrival
+
+----No. of customer  delayed: 590----
+
+Next event: Customer 591 Arrival
+Next event: Customer 590 Departure
+
+----No. of customer  delayed: 591----
+
+Next event: Customer 591 Departure
+Next event: Customer 592 Arrival
+
+----No. of customer  delayed: 592----
+
+Next event: Customer 592 Departure
+Next event: Customer 593 Arrival
+
+----No. of customer  delayed: 593----
+
+Next event: Customer 594 Arrival
+Next event: Customer 595 Arrival
+Next event: Customer 593 Departure
+
+----No. of customer  delayed: 594----
+
+Next event: Customer 594 Departure
+
+----No. of customer  delayed: 595----
+
+Next event: Customer 596 Arrival
+Next event: Customer 595 Departure
+
+----No. of customer  delayed: 596----
+
+Next event: Customer 596 Departure
+Next event: Customer 597 Arrival
+
+----No. of customer  delayed: 597----
+
+Next event: Customer 597 Departure
+Next event: Customer 598 Arrival
+
+----No. of customer  delayed: 598----
+
+Next event: Customer 599 Arrival
+Next event: Customer 600 Arrival
+Next event: Customer 598 Departure
+
+----No. of customer  delayed: 599----
+
+Next event: Customer 601 Arrival
+Next event: Customer 599 Departure
+
+----No. of customer  delayed: 600----
+
+Next event: Customer 602 Arrival
+Next event: Customer 600 Departure
+
+----No. of customer  delayed: 601----
+
+Next event: Customer 601 Departure
+
+----No. of customer  delayed: 602----
+
+Next event: Customer 602 Departure
+Next event: Customer 603 Arrival
+
+----No. of customer  delayed: 603----
+
+Next event: Customer 603 Departure
+Next event: Customer 604 Arrival
+
+----No. of customer  delayed: 604----
+
+Next event: Customer 605 Arrival
+Next event: Customer 604 Departure
+
+----No. of customer  delayed: 605----
+
+Next event: Customer 605 Departure
+Next event: Customer 606 Arrival
+
+----No. of customer  delayed: 606----
+
+Next event: Customer 606 Departure
+Next event: Customer 607 Arrival
+
+----No. of customer  delayed: 607----
+
+Next event: Customer 607 Departure
+Next event: Customer 608 Arrival
+
+----No. of customer  delayed: 608----
+
+Next event: Customer 608 Departure
+Next event: Customer 609 Arrival
+
+----No. of customer  delayed: 609----
+
+Next event: Customer 609 Departure
+Next event: Customer 610 Arrival
+
+----No. of customer  delayed: 610----
+
+Next event: Customer 610 Departure
+Next event: Customer 611 Arrival
+
+----No. of customer  delayed: 611----
+
+Next event: Customer 612 Arrival
+Next event: Customer 611 Departure
+
+----No. of customer  delayed: 612----
+
+Next event: Customer 613 Arrival
+Next event: Customer 612 Departure
+
+----No. of customer  delayed: 613----
+
+Next event: Customer 614 Arrival
+Next event: Customer 615 Arrival
+Next event: Customer 613 Departure
+
+----No. of customer  delayed: 614----
+
+Next event: Customer 614 Departure
+
+----No. of customer  delayed: 615----
+
+Next event: Customer 615 Departure
+Next event: Customer 616 Arrival
+
+----No. of customer  delayed: 616----
+
+Next event: Customer 616 Departure
+Next event: Customer 617 Arrival
+
+----No. of customer  delayed: 617----
+
+Next event: Customer 618 Arrival
+Next event: Customer 617 Departure
+
+----No. of customer  delayed: 618----
+
+Next event: Customer 619 Arrival
+Next event: Customer 618 Departure
+
+----No. of customer  delayed: 619----
+
+Next event: Customer 619 Departure
+Next event: Customer 620 Arrival
+
+----No. of customer  delayed: 620----
+
+Next event: Customer 621 Arrival
+Next event: Customer 620 Departure
+
+----No. of customer  delayed: 621----
+
+Next event: Customer 621 Departure
+Next event: Customer 622 Arrival
+
+----No. of customer  delayed: 622----
+
+Next event: Customer 622 Departure
+Next event: Customer 623 Arrival
+
+----No. of customer  delayed: 623----
+
+Next event: Customer 623 Departure
+Next event: Customer 624 Arrival
+
+----No. of customer  delayed: 624----
+
+Next event: Customer 624 Departure
+Next event: Customer 625 Arrival
+
+----No. of customer  delayed: 625----
+
+Next event: Customer 626 Arrival
+Next event: Customer 627 Arrival
+Next event: Customer 625 Departure
+
+----No. of customer  delayed: 626----
+
+Next event: Customer 626 Departure
+
+----No. of customer  delayed: 627----
+
+Next event: Customer 627 Departure
+Next event: Customer 628 Arrival
+
+----No. of customer  delayed: 628----
+
+Next event: Customer 628 Departure
+Next event: Customer 629 Arrival
+
+----No. of customer  delayed: 629----
+
+Next event: Customer 629 Departure
+Next event: Customer 630 Arrival
+
+----No. of customer  delayed: 630----
+
+Next event: Customer 630 Departure
+Next event: Customer 631 Arrival
+
+----No. of customer  delayed: 631----
+
+Next event: Customer 632 Arrival
+Next event: Customer 631 Departure
+
+----No. of customer  delayed: 632----
+
+Next event: Customer 632 Departure
+Next event: Customer 633 Arrival
+
+----No. of customer  delayed: 633----
+
+Next event: Customer 633 Departure
+Next event: Customer 634 Arrival
+
+----No. of customer  delayed: 634----
+
+Next event: Customer 634 Departure
+Next event: Customer 635 Arrival
+
+----No. of customer  delayed: 635----
+
+Next event: Customer 635 Departure
+Next event: Customer 636 Arrival
+
+----No. of customer  delayed: 636----
+
+Next event: Customer 637 Arrival
+Next event: Customer 636 Departure
+
+----No. of customer  delayed: 637----
+
+Next event: Customer 638 Arrival
+Next event: Customer 637 Departure
+
+----No. of customer  delayed: 638----
+
+Next event: Customer 638 Departure
+Next event: Customer 639 Arrival
+
+----No. of customer  delayed: 639----
+
+Next event: Customer 639 Departure
+Next event: Customer 640 Arrival
+
+----No. of customer  delayed: 640----
+
+Next event: Customer 641 Arrival
+Next event: Customer 642 Arrival
+Next event: Customer 643 Arrival
+Next event: Customer 640 Departure
+
+----No. of customer  delayed: 641----
+
+Next event: Customer 644 Arrival
+Next event: Customer 641 Departure
+
+----No. of customer  delayed: 642----
+
+Next event: Customer 645 Arrival
+Next event: Customer 642 Departure
+
+----No. of customer  delayed: 643----
+
+Next event: Customer 646 Arrival
+Next event: Customer 643 Departure
+
+----No. of customer  delayed: 644----
+
+Next event: Customer 644 Departure
+
+----No. of customer  delayed: 645----
+
+Next event: Customer 647 Arrival
+Next event: Customer 645 Departure
+
+----No. of customer  delayed: 646----
+
+Next event: Customer 648 Arrival
+Next event: Customer 646 Departure
+
+----No. of customer  delayed: 647----
+
+Next event: Customer 647 Departure
+
+----No. of customer  delayed: 648----
+
+Next event: Customer 648 Departure
+Next event: Customer 649 Arrival
+
+----No. of customer  delayed: 649----
+
+Next event: Customer 650 Arrival
+Next event: Customer 649 Departure
+
+----No. of customer  delayed: 650----
+
+Next event: Customer 651 Arrival
+Next event: Customer 650 Departure
+
+----No. of customer  delayed: 651----
+
+Next event: Customer 651 Departure
+Next event: Customer 652 Arrival
+
+----No. of customer  delayed: 652----
+
+Next event: Customer 653 Arrival
+Next event: Customer 654 Arrival
+Next event: Customer 655 Arrival
+Next event: Customer 656 Arrival
+Next event: Customer 657 Arrival
+Next event: Customer 658 Arrival
+Next event: Customer 652 Departure
+
+----No. of customer  delayed: 653----
+
+Next event: Customer 653 Departure
+
+----No. of customer  delayed: 654----
+
+Next event: Customer 654 Departure
+
+----No. of customer  delayed: 655----
+
+Next event: Customer 655 Departure
+
+----No. of customer  delayed: 656----
+
+Next event: Customer 656 Departure
+
+----No. of customer  delayed: 657----
+
+Next event: Customer 657 Departure
+
+----No. of customer  delayed: 658----
+
+Next event: Customer 659 Arrival
+Next event: Customer 660 Arrival
+Next event: Customer 658 Departure
+
+----No. of customer  delayed: 659----
+
+Next event: Customer 661 Arrival
+Next event: Customer 662 Arrival
+Next event: Customer 659 Departure
+
+----No. of customer  delayed: 660----
+
+Next event: Customer 663 Arrival
+Next event: Customer 660 Departure
+
+----No. of customer  delayed: 661----
+
+Next event: Customer 661 Departure
+
+----No. of customer  delayed: 662----
+
+Next event: Customer 664 Arrival
+Next event: Customer 662 Departure
+
+----No. of customer  delayed: 663----
+
+Next event: Customer 663 Departure
+
+----No. of customer  delayed: 664----
+
+Next event: Customer 665 Arrival
+Next event: Customer 666 Arrival
+Next event: Customer 664 Departure
+
+----No. of customer  delayed: 665----
+
+Next event: Customer 665 Departure
+
+----No. of customer  delayed: 666----
+
+Next event: Customer 666 Departure
+Next event: Customer 667 Arrival
+
+----No. of customer  delayed: 667----
+
+Next event: Customer 667 Departure
+Next event: Customer 668 Arrival
+
+----No. of customer  delayed: 668----
+
+Next event: Customer 669 Arrival
+Next event: Customer 668 Departure
+
+----No. of customer  delayed: 669----
+
+Next event: Customer 669 Departure
+Next event: Customer 670 Arrival
+
+----No. of customer  delayed: 670----
+
+Next event: Customer 670 Departure
+Next event: Customer 671 Arrival
+
+----No. of customer  delayed: 671----
+
+Next event: Customer 671 Departure
+Next event: Customer 672 Arrival
+
+----No. of customer  delayed: 672----
+
+Next event: Customer 673 Arrival
+Next event: Customer 674 Arrival
+Next event: Customer 672 Departure
+
+----No. of customer  delayed: 673----
+
+Next event: Customer 673 Departure
+
+----No. of customer  delayed: 674----
+
+Next event: Customer 674 Departure
+Next event: Customer 675 Arrival
+
+----No. of customer  delayed: 675----
+
+Next event: Customer 675 Departure
+Next event: Customer 676 Arrival
+
+----No. of customer  delayed: 676----
+
+Next event: Customer 676 Departure
+Next event: Customer 677 Arrival
+
+----No. of customer  delayed: 677----
+
+Next event: Customer 677 Departure
+Next event: Customer 678 Arrival
+
+----No. of customer  delayed: 678----
+
+Next event: Customer 678 Departure
+Next event: Customer 679 Arrival
+
+----No. of customer  delayed: 679----
+
+Next event: Customer 679 Departure
+Next event: Customer 680 Arrival
+
+----No. of customer  delayed: 680----
+
+Next event: Customer 680 Departure
+Next event: Customer 681 Arrival
+
+----No. of customer  delayed: 681----
+
+Next event: Customer 681 Departure
+Next event: Customer 682 Arrival
+
+----No. of customer  delayed: 682----
+
+Next event: Customer 682 Departure
+Next event: Customer 683 Arrival
+
+----No. of customer  delayed: 683----
+
+Next event: Customer 683 Departure
+Next event: Customer 684 Arrival
+
+----No. of customer  delayed: 684----
+
+Next event: Customer 685 Arrival
+Next event: Customer 684 Departure
+
+----No. of customer  delayed: 685----
+
+Next event: Customer 685 Departure
+Next event: Customer 686 Arrival
+
+----No. of customer  delayed: 686----
+
+Next event: Customer 687 Arrival
+Next event: Customer 686 Departure
+
+----No. of customer  delayed: 687----
+
+Next event: Customer 687 Departure
+Next event: Customer 688 Arrival
+
+----No. of customer  delayed: 688----
+
+Next event: Customer 688 Departure
+Next event: Customer 689 Arrival
+
+----No. of customer  delayed: 689----
+
+Next event: Customer 689 Departure
+Next event: Customer 690 Arrival
+
+----No. of customer  delayed: 690----
+
+Next event: Customer 690 Departure
+Next event: Customer 691 Arrival
+
+----No. of customer  delayed: 691----
+
+Next event: Customer 691 Departure
+Next event: Customer 692 Arrival
+
+----No. of customer  delayed: 692----
+
+Next event: Customer 692 Departure
+Next event: Customer 693 Arrival
+
+----No. of customer  delayed: 693----
+
+Next event: Customer 694 Arrival
+Next event: Customer 693 Departure
+
+----No. of customer  delayed: 694----
+
+Next event: Customer 694 Departure
+Next event: Customer 695 Arrival
+
+----No. of customer  delayed: 695----
+
+Next event: Customer 696 Arrival
+Next event: Customer 695 Departure
+
+----No. of customer  delayed: 696----
+
+Next event: Customer 696 Departure
+Next event: Customer 697 Arrival
+
+----No. of customer  delayed: 697----
+
+Next event: Customer 698 Arrival
+Next event: Customer 697 Departure
+
+----No. of customer  delayed: 698----
+
+Next event: Customer 698 Departure
+Next event: Customer 699 Arrival
+
+----No. of customer  delayed: 699----
+
+Next event: Customer 699 Departure
+Next event: Customer 700 Arrival
+
+----No. of customer  delayed: 700----
+
+Next event: Customer 700 Departure
+Next event: Customer 701 Arrival
+
+----No. of customer  delayed: 701----
+
+Next event: Customer 702 Arrival
+Next event: Customer 701 Departure
+
+----No. of customer  delayed: 702----
+
+Next event: Customer 703 Arrival
+Next event: Customer 704 Arrival
+Next event: Customer 702 Departure
+
+----No. of customer  delayed: 703----
+
+Next event: Customer 703 Departure
+
+----No. of customer  delayed: 704----
+
+Next event: Customer 705 Arrival
+Next event: Customer 706 Arrival
+Next event: Customer 707 Arrival
+Next event: Customer 708 Arrival
+Next event: Customer 704 Departure
+
+----No. of customer  delayed: 705----
+
+Next event: Customer 705 Departure
+
+----No. of customer  delayed: 706----
+
+Next event: Customer 706 Departure
+
+----No. of customer  delayed: 707----
+
+Next event: Customer 709 Arrival
+Next event: Customer 710 Arrival
+Next event: Customer 711 Arrival
+Next event: Customer 707 Departure
+
+----No. of customer  delayed: 708----
+
+Next event: Customer 712 Arrival
+Next event: Customer 708 Departure
+
+----No. of customer  delayed: 709----
+
+Next event: Customer 709 Departure
+
+----No. of customer  delayed: 710----
+
+Next event: Customer 713 Arrival
+Next event: Customer 710 Departure
+
+----No. of customer  delayed: 711----
+
+Next event: Customer 714 Arrival
+Next event: Customer 715 Arrival
+Next event: Customer 711 Departure
+
+----No. of customer  delayed: 712----
+
+Next event: Customer 712 Departure
+
+----No. of customer  delayed: 713----
+
+Next event: Customer 713 Departure
+
+----No. of customer  delayed: 714----
+
+Next event: Customer 714 Departure
+
+----No. of customer  delayed: 715----
+
+Next event: Customer 716 Arrival
+Next event: Customer 717 Arrival
+Next event: Customer 715 Departure
+
+----No. of customer  delayed: 716----
+
+Next event: Customer 716 Departure
+
+----No. of customer  delayed: 717----
+
+Next event: Customer 717 Departure
+Next event: Customer 718 Arrival
+
+----No. of customer  delayed: 718----
+
+Next event: Customer 718 Departure
+Next event: Customer 719 Arrival
+
+----No. of customer  delayed: 719----
+
+Next event: Customer 720 Arrival
+Next event: Customer 721 Arrival
+Next event: Customer 719 Departure
+
+----No. of customer  delayed: 720----
+
+Next event: Customer 722 Arrival
+Next event: Customer 723 Arrival
+Next event: Customer 720 Departure
+
+----No. of customer  delayed: 721----
+
+Next event: Customer 721 Departure
+
+----No. of customer  delayed: 722----
+
+Next event: Customer 724 Arrival
+Next event: Customer 725 Arrival
+Next event: Customer 722 Departure
+
+----No. of customer  delayed: 723----
+
+Next event: Customer 723 Departure
+
+----No. of customer  delayed: 724----
+
+Next event: Customer 726 Arrival
+Next event: Customer 724 Departure
+
+----No. of customer  delayed: 725----
+
+Next event: Customer 727 Arrival
+Next event: Customer 725 Departure
+
+----No. of customer  delayed: 726----
+
+Next event: Customer 728 Arrival
+Next event: Customer 726 Departure
+
+----No. of customer  delayed: 727----
+
+Next event: Customer 729 Arrival
+Next event: Customer 727 Departure
+
+----No. of customer  delayed: 728----
+
+Next event: Customer 728 Departure
+
+----No. of customer  delayed: 729----
+
+Next event: Customer 729 Departure
+Next event: Customer 730 Arrival
+
+----No. of customer  delayed: 730----
+
+Next event: Customer 730 Departure
+Next event: Customer 731 Arrival
+
+----No. of customer  delayed: 731----
+
+Next event: Customer 731 Departure
+Next event: Customer 732 Arrival
+
+----No. of customer  delayed: 732----
+
+Next event: Customer 733 Arrival
+Next event: Customer 732 Departure
+
+----No. of customer  delayed: 733----
+
+Next event: Customer 733 Departure
+Next event: Customer 734 Arrival
+
+----No. of customer  delayed: 734----
+
+Next event: Customer 735 Arrival
+Next event: Customer 736 Arrival
+Next event: Customer 734 Departure
+
+----No. of customer  delayed: 735----
+
+Next event: Customer 737 Arrival
+Next event: Customer 738 Arrival
+Next event: Customer 735 Departure
+
+----No. of customer  delayed: 736----
+
+Next event: Customer 736 Departure
+
+----No. of customer  delayed: 737----
+
+Next event: Customer 737 Departure
+
+----No. of customer  delayed: 738----
+
+Next event: Customer 738 Departure
+Next event: Customer 739 Arrival
+
+----No. of customer  delayed: 739----
+
+Next event: Customer 740 Arrival
+Next event: Customer 739 Departure
+
+----No. of customer  delayed: 740----
+
+Next event: Customer 740 Departure
+Next event: Customer 741 Arrival
+
+----No. of customer  delayed: 741----
+
+Next event: Customer 742 Arrival
+Next event: Customer 743 Arrival
+Next event: Customer 741 Departure
+
+----No. of customer  delayed: 742----
+
+Next event: Customer 742 Departure
+
+----No. of customer  delayed: 743----
+
+Next event: Customer 744 Arrival
+Next event: Customer 743 Departure
+
+----No. of customer  delayed: 744----
+
+Next event: Customer 744 Departure
+Next event: Customer 745 Arrival
+
+----No. of customer  delayed: 745----
+
+Next event: Customer 745 Departure
+Next event: Customer 746 Arrival
+
+----No. of customer  delayed: 746----
+
+Next event: Customer 746 Departure
+Next event: Customer 747 Arrival
+
+----No. of customer  delayed: 747----
+
+Next event: Customer 747 Departure
+Next event: Customer 748 Arrival
+
+----No. of customer  delayed: 748----
+
+Next event: Customer 749 Arrival
+Next event: Customer 748 Departure
+
+----No. of customer  delayed: 749----
+
+Next event: Customer 749 Departure
+Next event: Customer 750 Arrival
+
+----No. of customer  delayed: 750----
+
+Next event: Customer 750 Departure
+Next event: Customer 751 Arrival
+
+----No. of customer  delayed: 751----
+
+Next event: Customer 751 Departure
+Next event: Customer 752 Arrival
+
+----No. of customer  delayed: 752----
+
+Next event: Customer 752 Departure
+Next event: Customer 753 Arrival
+
+----No. of customer  delayed: 753----
+
+Next event: Customer 753 Departure
+Next event: Customer 754 Arrival
+
+----No. of customer  delayed: 754----
+
+Next event: Customer 754 Departure
+Next event: Customer 755 Arrival
+
+----No. of customer  delayed: 755----
+
+Next event: Customer 755 Departure
+Next event: Customer 756 Arrival
+
+----No. of customer  delayed: 756----
+
+Next event: Customer 756 Departure
+Next event: Customer 757 Arrival
+
+----No. of customer  delayed: 757----
+
+Next event: Customer 758 Arrival
+Next event: Customer 757 Departure
+
+----No. of customer  delayed: 758----
+
+Next event: Customer 758 Departure
+Next event: Customer 759 Arrival
+
+----No. of customer  delayed: 759----
+
+Next event: Customer 760 Arrival
+Next event: Customer 759 Departure
+
+----No. of customer  delayed: 760----
+
+Next event: Customer 760 Departure
+Next event: Customer 761 Arrival
+
+----No. of customer  delayed: 761----
+
+Next event: Customer 761 Departure
+Next event: Customer 762 Arrival
+
+----No. of customer  delayed: 762----
+
+Next event: Customer 762 Departure
+Next event: Customer 763 Arrival
+
+----No. of customer  delayed: 763----
+
+Next event: Customer 763 Departure
+Next event: Customer 764 Arrival
+
+----No. of customer  delayed: 764----
+
+Next event: Customer 764 Departure
+Next event: Customer 765 Arrival
+
+----No. of customer  delayed: 765----
+
+Next event: Customer 765 Departure
+Next event: Customer 766 Arrival
+
+----No. of customer  delayed: 766----
+
+Next event: Customer 766 Departure
+Next event: Customer 767 Arrival
+
+----No. of customer  delayed: 767----
+
+Next event: Customer 768 Arrival
+Next event: Customer 767 Departure
+
+----No. of customer  delayed: 768----
+
+Next event: Customer 768 Departure
+Next event: Customer 769 Arrival
+
+----No. of customer  delayed: 769----
+
+Next event: Customer 769 Departure
+Next event: Customer 770 Arrival
+
+----No. of customer  delayed: 770----
+
+Next event: Customer 770 Departure
+Next event: Customer 771 Arrival
+
+----No. of customer  delayed: 771----
+
+Next event: Customer 771 Departure
+Next event: Customer 772 Arrival
+
+----No. of customer  delayed: 772----
+
+Next event: Customer 773 Arrival
+Next event: Customer 772 Departure
+
+----No. of customer  delayed: 773----
+
+Next event: Customer 773 Departure
+Next event: Customer 774 Arrival
+
+----No. of customer  delayed: 774----
+
+Next event: Customer 774 Departure
+Next event: Customer 775 Arrival
+
+----No. of customer  delayed: 775----
+
+Next event: Customer 775 Departure
+Next event: Customer 776 Arrival
+
+----No. of customer  delayed: 776----
+
+Next event: Customer 776 Departure
+Next event: Customer 777 Arrival
+
+----No. of customer  delayed: 777----
+
+Next event: Customer 777 Departure
+Next event: Customer 778 Arrival
+
+----No. of customer  delayed: 778----
+
+Next event: Customer 778 Departure
+Next event: Customer 779 Arrival
+
+----No. of customer  delayed: 779----
+
+Next event: Customer 779 Departure
+Next event: Customer 780 Arrival
+
+----No. of customer  delayed: 780----
+
+Next event: Customer 780 Departure
+Next event: Customer 781 Arrival
+
+----No. of customer  delayed: 781----
+
+Next event: Customer 782 Arrival
+Next event: Customer 781 Departure
+
+----No. of customer  delayed: 782----
+
+Next event: Customer 783 Arrival
+Next event: Customer 782 Departure
+
+----No. of customer  delayed: 783----
+
+Next event: Customer 784 Arrival
+Next event: Customer 783 Departure
+
+----No. of customer  delayed: 784----
+
+Next event: Customer 784 Departure
+Next event: Customer 785 Arrival
+
+----No. of customer  delayed: 785----
+
+Next event: Customer 786 Arrival
+Next event: Customer 785 Departure
+
+----No. of customer  delayed: 786----
+
+Next event: Customer 786 Departure
+Next event: Customer 787 Arrival
+
+----No. of customer  delayed: 787----
+
+Next event: Customer 788 Arrival
+Next event: Customer 787 Departure
+
+----No. of customer  delayed: 788----
+
+Next event: Customer 788 Departure
+Next event: Customer 789 Arrival
+
+----No. of customer  delayed: 789----
+
+Next event: Customer 789 Departure
+Next event: Customer 790 Arrival
+
+----No. of customer  delayed: 790----
+
+Next event: Customer 791 Arrival
+Next event: Customer 790 Departure
+
+----No. of customer  delayed: 791----
+
+Next event: Customer 791 Departure
+Next event: Customer 792 Arrival
+
+----No. of customer  delayed: 792----
+
+Next event: Customer 793 Arrival
+Next event: Customer 792 Departure
+
+----No. of customer  delayed: 793----
+
+Next event: Customer 794 Arrival
+Next event: Customer 795 Arrival
+Next event: Customer 796 Arrival
+Next event: Customer 793 Departure
+
+----No. of customer  delayed: 794----
+
+Next event: Customer 794 Departure
+
+----No. of customer  delayed: 795----
+
+Next event: Customer 795 Departure
+
+----No. of customer  delayed: 796----
+
+Next event: Customer 796 Departure
+Next event: Customer 797 Arrival
+
+----No. of customer  delayed: 797----
+
+Next event: Customer 797 Departure
+Next event: Customer 798 Arrival
+
+----No. of customer  delayed: 798----
+
+Next event: Customer 798 Departure
+Next event: Customer 799 Arrival
+
+----No. of customer  delayed: 799----
+
+Next event: Customer 799 Departure
+Next event: Customer 800 Arrival
+
+----No. of customer  delayed: 800----
+
+Next event: Customer 800 Departure
+Next event: Customer 801 Arrival
+
+----No. of customer  delayed: 801----
+
+Next event: Customer 801 Departure
+Next event: Customer 802 Arrival
+
+----No. of customer  delayed: 802----
+
+Next event: Customer 802 Departure
+Next event: Customer 803 Arrival
+
+----No. of customer  delayed: 803----
+
+Next event: Customer 803 Departure
+Next event: Customer 804 Arrival
+
+----No. of customer  delayed: 804----
+
+Next event: Customer 804 Departure
+Next event: Customer 805 Arrival
+
+----No. of customer  delayed: 805----
+
+Next event: Customer 805 Departure
+Next event: Customer 806 Arrival
+
+----No. of customer  delayed: 806----
+
+Next event: Customer 806 Departure
+Next event: Customer 807 Arrival
+
+----No. of customer  delayed: 807----
+
+Next event: Customer 808 Arrival
+Next event: Customer 809 Arrival
+Next event: Customer 807 Departure
+
+----No. of customer  delayed: 808----
+
+Next event: Customer 810 Arrival
+Next event: Customer 811 Arrival
+Next event: Customer 808 Departure
+
+----No. of customer  delayed: 809----
+
+Next event: Customer 809 Departure
+
+----No. of customer  delayed: 810----
+
+Next event: Customer 810 Departure
+
+----No. of customer  delayed: 811----
+
+Next event: Customer 811 Departure
+Next event: Customer 812 Arrival
+
+----No. of customer  delayed: 812----
+
+Next event: Customer 812 Departure
+Next event: Customer 813 Arrival
+
+----No. of customer  delayed: 813----
+
+Next event: Customer 813 Departure
+Next event: Customer 814 Arrival
+
+----No. of customer  delayed: 814----
+
+Next event: Customer 814 Departure
+Next event: Customer 815 Arrival
+
+----No. of customer  delayed: 815----
+
+Next event: Customer 815 Departure
+Next event: Customer 816 Arrival
+
+----No. of customer  delayed: 816----
+
+Next event: Customer 817 Arrival
+Next event: Customer 816 Departure
+
+----No. of customer  delayed: 817----
+
+Next event: Customer 817 Departure
+Next event: Customer 818 Arrival
+
+----No. of customer  delayed: 818----
+
+Next event: Customer 818 Departure
+Next event: Customer 819 Arrival
+
+----No. of customer  delayed: 819----
+
+Next event: Customer 819 Departure
+Next event: Customer 820 Arrival
+
+----No. of customer  delayed: 820----
+
+Next event: Customer 820 Departure
+Next event: Customer 821 Arrival
+
+----No. of customer  delayed: 821----
+
+Next event: Customer 822 Arrival
+Next event: Customer 821 Departure
+
+----No. of customer  delayed: 822----
+
+Next event: Customer 822 Departure
+Next event: Customer 823 Arrival
+
+----No. of customer  delayed: 823----
+
+Next event: Customer 824 Arrival
+Next event: Customer 823 Departure
+
+----No. of customer  delayed: 824----
+
+Next event: Customer 824 Departure
+Next event: Customer 825 Arrival
+
+----No. of customer  delayed: 825----
+
+Next event: Customer 825 Departure
+Next event: Customer 826 Arrival
+
+----No. of customer  delayed: 826----
+
+Next event: Customer 826 Departure
+Next event: Customer 827 Arrival
+
+----No. of customer  delayed: 827----
+
+Next event: Customer 827 Departure
+Next event: Customer 828 Arrival
+
+----No. of customer  delayed: 828----
+
+Next event: Customer 829 Arrival
+Next event: Customer 830 Arrival
+Next event: Customer 828 Departure
+
+----No. of customer  delayed: 829----
+
+Next event: Customer 829 Departure
+
+----No. of customer  delayed: 830----
+
+Next event: Customer 830 Departure
+Next event: Customer 831 Arrival
+
+----No. of customer  delayed: 831----
+
+Next event: Customer 832 Arrival
+Next event: Customer 833 Arrival
+Next event: Customer 831 Departure
+
+----No. of customer  delayed: 832----
+
+Next event: Customer 834 Arrival
+Next event: Customer 832 Departure
+
+----No. of customer  delayed: 833----
+
+Next event: Customer 833 Departure
+
+----No. of customer  delayed: 834----
+
+Next event: Customer 835 Arrival
+Next event: Customer 834 Departure
+
+----No. of customer  delayed: 835----
+
+Next event: Customer 836 Arrival
+Next event: Customer 835 Departure
+
+----No. of customer  delayed: 836----
+
+Next event: Customer 836 Departure
+Next event: Customer 837 Arrival
+
+----No. of customer  delayed: 837----
+
+Next event: Customer 838 Arrival
+Next event: Customer 837 Departure
+
+----No. of customer  delayed: 838----
+
+Next event: Customer 838 Departure
+Next event: Customer 839 Arrival
+
+----No. of customer  delayed: 839----
+
+Next event: Customer 839 Departure
+Next event: Customer 840 Arrival
+
+----No. of customer  delayed: 840----
+
+Next event: Customer 840 Departure
+Next event: Customer 841 Arrival
+
+----No. of customer  delayed: 841----
+
+Next event: Customer 841 Departure
+Next event: Customer 842 Arrival
+
+----No. of customer  delayed: 842----
+
+Next event: Customer 842 Departure
+Next event: Customer 843 Arrival
+
+----No. of customer  delayed: 843----
+
+Next event: Customer 844 Arrival
+Next event: Customer 843 Departure
+
+----No. of customer  delayed: 844----
+
+Next event: Customer 844 Departure
+Next event: Customer 845 Arrival
+
+----No. of customer  delayed: 845----
+
+Next event: Customer 845 Departure
+Next event: Customer 846 Arrival
+
+----No. of customer  delayed: 846----
+
+Next event: Customer 846 Departure
+Next event: Customer 847 Arrival
+
+----No. of customer  delayed: 847----
+
+Next event: Customer 848 Arrival
+Next event: Customer 847 Departure
+
+----No. of customer  delayed: 848----
+
+Next event: Customer 848 Departure
+Next event: Customer 849 Arrival
+
+----No. of customer  delayed: 849----
+
+Next event: Customer 849 Departure
+Next event: Customer 850 Arrival
+
+----No. of customer  delayed: 850----
+
+Next event: Customer 850 Departure
+Next event: Customer 851 Arrival
+
+----No. of customer  delayed: 851----
+
+Next event: Customer 851 Departure
+Next event: Customer 852 Arrival
+
+----No. of customer  delayed: 852----
+
+Next event: Customer 853 Arrival
+Next event: Customer 854 Arrival
+Next event: Customer 852 Departure
+
+----No. of customer  delayed: 853----
+
+Next event: Customer 853 Departure
+
+----No. of customer  delayed: 854----
+
+Next event: Customer 855 Arrival
+Next event: Customer 854 Departure
+
+----No. of customer  delayed: 855----
+
+Next event: Customer 856 Arrival
+Next event: Customer 855 Departure
+
+----No. of customer  delayed: 856----
+
+Next event: Customer 856 Departure
+Next event: Customer 857 Arrival
+
+----No. of customer  delayed: 857----
+
+Next event: Customer 857 Departure
+Next event: Customer 858 Arrival
+
+----No. of customer  delayed: 858----
+
+Next event: Customer 858 Departure
+Next event: Customer 859 Arrival
+
+----No. of customer  delayed: 859----
+
+Next event: Customer 859 Departure
+Next event: Customer 860 Arrival
+
+----No. of customer  delayed: 860----
+
+Next event: Customer 861 Arrival
+Next event: Customer 860 Departure
+
+----No. of customer  delayed: 861----
+
+Next event: Customer 862 Arrival
+Next event: Customer 863 Arrival
+Next event: Customer 864 Arrival
+Next event: Customer 861 Departure
+
+----No. of customer  delayed: 862----
+
+Next event: Customer 862 Departure
+
+----No. of customer  delayed: 863----
+
+Next event: Customer 865 Arrival
+Next event: Customer 863 Departure
+
+----No. of customer  delayed: 864----
+
+Next event: Customer 864 Departure
+
+----No. of customer  delayed: 865----
+
+Next event: Customer 865 Departure
+Next event: Customer 866 Arrival
+
+----No. of customer  delayed: 866----
+
+Next event: Customer 866 Departure
+Next event: Customer 867 Arrival
+
+----No. of customer  delayed: 867----
+
+Next event: Customer 867 Departure
+Next event: Customer 868 Arrival
+
+----No. of customer  delayed: 868----
+
+Next event: Customer 868 Departure
+Next event: Customer 869 Arrival
+
+----No. of customer  delayed: 869----
+
+Next event: Customer 869 Departure
+Next event: Customer 870 Arrival
+
+----No. of customer  delayed: 870----
+
+Next event: Customer 870 Departure
+Next event: Customer 871 Arrival
+
+----No. of customer  delayed: 871----
+
+Next event: Customer 871 Departure
+Next event: Customer 872 Arrival
+
+----No. of customer  delayed: 872----
+
+Next event: Customer 873 Arrival
+Next event: Customer 872 Departure
+
+----No. of customer  delayed: 873----
+
+Next event: Customer 873 Departure
+Next event: Customer 874 Arrival
+
+----No. of customer  delayed: 874----
+
+Next event: Customer 874 Departure
+Next event: Customer 875 Arrival
+
+----No. of customer  delayed: 875----
+
+Next event: Customer 875 Departure
+Next event: Customer 876 Arrival
+
+----No. of customer  delayed: 876----
+
+Next event: Customer 877 Arrival
+Next event: Customer 876 Departure
+
+----No. of customer  delayed: 877----
+
+Next event: Customer 877 Departure
+Next event: Customer 878 Arrival
+
+----No. of customer  delayed: 878----
+
+Next event: Customer 878 Departure
+Next event: Customer 879 Arrival
+
+----No. of customer  delayed: 879----
+
+Next event: Customer 879 Departure
+Next event: Customer 880 Arrival
+
+----No. of customer  delayed: 880----
+
+Next event: Customer 880 Departure
+Next event: Customer 881 Arrival
+
+----No. of customer  delayed: 881----
+
+Next event: Customer 882 Arrival
+Next event: Customer 881 Departure
+
+----No. of customer  delayed: 882----
+
+Next event: Customer 882 Departure
+Next event: Customer 883 Arrival
+
+----No. of customer  delayed: 883----
+
+Next event: Customer 883 Departure
+Next event: Customer 884 Arrival
+
+----No. of customer  delayed: 884----
+
+Next event: Customer 884 Departure
+Next event: Customer 885 Arrival
+
+----No. of customer  delayed: 885----
+
+Next event: Customer 885 Departure
+Next event: Customer 886 Arrival
+
+----No. of customer  delayed: 886----
+
+Next event: Customer 887 Arrival
+Next event: Customer 886 Departure
+
+----No. of customer  delayed: 887----
+
+Next event: Customer 887 Departure
+Next event: Customer 888 Arrival
+
+----No. of customer  delayed: 888----
+
+Next event: Customer 888 Departure
+Next event: Customer 889 Arrival
+
+----No. of customer  delayed: 889----
+
+Next event: Customer 889 Departure
+Next event: Customer 890 Arrival
+
+----No. of customer  delayed: 890----
+
+Next event: Customer 890 Departure
+Next event: Customer 891 Arrival
+
+----No. of customer  delayed: 891----
+
+Next event: Customer 891 Departure
+Next event: Customer 892 Arrival
+
+----No. of customer  delayed: 892----
+
+Next event: Customer 892 Departure
+Next event: Customer 893 Arrival
+
+----No. of customer  delayed: 893----
+
+Next event: Customer 894 Arrival
+Next event: Customer 895 Arrival
+Next event: Customer 893 Departure
+
+----No. of customer  delayed: 894----
+
+Next event: Customer 896 Arrival
+Next event: Customer 897 Arrival
+Next event: Customer 898 Arrival
+Next event: Customer 899 Arrival
+Next event: Customer 900 Arrival
+Next event: Customer 901 Arrival
+Next event: Customer 902 Arrival
+Next event: Customer 903 Arrival
+Next event: Customer 894 Departure
+
+----No. of customer  delayed: 895----
+
+Next event: Customer 895 Departure
+
+----No. of customer  delayed: 896----
+
+Next event: Customer 896 Departure
+
+----No. of customer  delayed: 897----
+
+Next event: Customer 897 Departure
+
+----No. of customer  delayed: 898----
+
+Next event: Customer 898 Departure
+
+----No. of customer  delayed: 899----
+
+Next event: Customer 899 Departure
+
+----No. of customer  delayed: 900----
+
+Next event: Customer 900 Departure
+
+----No. of customer  delayed: 901----
+
+Next event: Customer 904 Arrival
+Next event: Customer 901 Departure
+
+----No. of customer  delayed: 902----
+
+Next event: Customer 902 Departure
+
+----No. of customer  delayed: 903----
+
+Next event: Customer 903 Departure
+
+----No. of customer  delayed: 904----
+
+Next event: Customer 905 Arrival
+Next event: Customer 906 Arrival
+Next event: Customer 904 Departure
+
+----No. of customer  delayed: 905----
+
+Next event: Customer 905 Departure
+
+----No. of customer  delayed: 906----
+
+Next event: Customer 906 Departure
+Next event: Customer 907 Arrival
+
+----No. of customer  delayed: 907----
+
+Next event: Customer 907 Departure
+Next event: Customer 908 Arrival
+
+----No. of customer  delayed: 908----
+
+Next event: Customer 908 Departure
+Next event: Customer 909 Arrival
+
+----No. of customer  delayed: 909----
+
+Next event: Customer 909 Departure
+Next event: Customer 910 Arrival
+
+----No. of customer  delayed: 910----
+
+Next event: Customer 910 Departure
+Next event: Customer 911 Arrival
+
+----No. of customer  delayed: 911----
+
+Next event: Customer 912 Arrival
+Next event: Customer 911 Departure
+
+----No. of customer  delayed: 912----
+
+Next event: Customer 912 Departure
+Next event: Customer 913 Arrival
+
+----No. of customer  delayed: 913----
+
+Next event: Customer 913 Departure
+Next event: Customer 914 Arrival
+
+----No. of customer  delayed: 914----
+
+Next event: Customer 915 Arrival
+Next event: Customer 916 Arrival
+Next event: Customer 917 Arrival
+Next event: Customer 914 Departure
+
+----No. of customer  delayed: 915----
+
+Next event: Customer 918 Arrival
+Next event: Customer 919 Arrival
+Next event: Customer 915 Departure
+
+----No. of customer  delayed: 916----
+
+Next event: Customer 920 Arrival
+Next event: Customer 916 Departure
+
+----No. of customer  delayed: 917----
+
+Next event: Customer 917 Departure
+
+----No. of customer  delayed: 918----
+
+Next event: Customer 918 Departure
+
+----No. of customer  delayed: 919----
+
+Next event: Customer 919 Departure
+
+----No. of customer  delayed: 920----
+
+Next event: Customer 920 Departure
+Next event: Customer 921 Arrival
+
+----No. of customer  delayed: 921----
+
+Next event: Customer 921 Departure
+Next event: Customer 922 Arrival
+
+----No. of customer  delayed: 922----
+
+Next event: Customer 922 Departure
+Next event: Customer 923 Arrival
+
+----No. of customer  delayed: 923----
+
+Next event: Customer 923 Departure
+Next event: Customer 924 Arrival
+
+----No. of customer  delayed: 924----
+
+Next event: Customer 925 Arrival
+Next event: Customer 926 Arrival
+Next event: Customer 924 Departure
+
+----No. of customer  delayed: 925----
+
+Next event: Customer 925 Departure
+
+----No. of customer  delayed: 926----
+
+Next event: Customer 926 Departure
+Next event: Customer 927 Arrival
+
+----No. of customer  delayed: 927----
+
+Next event: Customer 927 Departure
+Next event: Customer 928 Arrival
+
+----No. of customer  delayed: 928----
+
+Next event: Customer 928 Departure
+Next event: Customer 929 Arrival
+
+----No. of customer  delayed: 929----
+
+Next event: Customer 929 Departure
+Next event: Customer 930 Arrival
+
+----No. of customer  delayed: 930----
+
+Next event: Customer 930 Departure
+Next event: Customer 931 Arrival
+
+----No. of customer  delayed: 931----
+
+Next event: Customer 931 Departure
+Next event: Customer 932 Arrival
+
+----No. of customer  delayed: 932----
+
+Next event: Customer 932 Departure
+Next event: Customer 933 Arrival
+
+----No. of customer  delayed: 933----
+
+Next event: Customer 934 Arrival
+Next event: Customer 933 Departure
+
+----No. of customer  delayed: 934----
+
+Next event: Customer 934 Departure
+Next event: Customer 935 Arrival
+
+----No. of customer  delayed: 935----
+
+Next event: Customer 935 Departure
+Next event: Customer 936 Arrival
+
+----No. of customer  delayed: 936----
+
+Next event: Customer 936 Departure
+Next event: Customer 937 Arrival
+
+----No. of customer  delayed: 937----
+
+Next event: Customer 937 Departure
+Next event: Customer 938 Arrival
+
+----No. of customer  delayed: 938----
+
+Next event: Customer 939 Arrival
+Next event: Customer 938 Departure
+
+----No. of customer  delayed: 939----
+
+Next event: Customer 939 Departure
+Next event: Customer 940 Arrival
+
+----No. of customer  delayed: 940----
+
+Next event: Customer 941 Arrival
+Next event: Customer 940 Departure
+
+----No. of customer  delayed: 941----
+
+Next event: Customer 942 Arrival
+Next event: Customer 941 Departure
+
+----No. of customer  delayed: 942----
+
+Next event: Customer 942 Departure
+Next event: Customer 943 Arrival
+
+----No. of customer  delayed: 943----
+
+Next event: Customer 943 Departure
+Next event: Customer 944 Arrival
+
+----No. of customer  delayed: 944----
+
+Next event: Customer 944 Departure
+Next event: Customer 945 Arrival
+
+----No. of customer  delayed: 945----
+
+Next event: Customer 945 Departure
+Next event: Customer 946 Arrival
+
+----No. of customer  delayed: 946----
+
+Next event: Customer 947 Arrival
+Next event: Customer 946 Departure
+
+----No. of customer  delayed: 947----
+
+Next event: Customer 947 Departure
+Next event: Customer 948 Arrival
+
+----No. of customer  delayed: 948----
+
+Next event: Customer 948 Departure
+Next event: Customer 949 Arrival
+
+----No. of customer  delayed: 949----
+
+Next event: Customer 949 Departure
+Next event: Customer 950 Arrival
+
+----No. of customer  delayed: 950----
+
+Next event: Customer 951 Arrival
+Next event: Customer 950 Departure
+
+----No. of customer  delayed: 951----
+
+Next event: Customer 952 Arrival
+Next event: Customer 953 Arrival
+Next event: Customer 954 Arrival
+Next event: Customer 951 Departure
+
+----No. of customer  delayed: 952----
+
+Next event: Customer 952 Departure
+
+----No. of customer  delayed: 953----
+
+Next event: Customer 953 Departure
+
+----No. of customer  delayed: 954----
+
+Next event: Customer 954 Departure
+Next event: Customer 955 Arrival
+
+----No. of customer  delayed: 955----
+
+Next event: Customer 955 Departure
+Next event: Customer 956 Arrival
+
+----No. of customer  delayed: 956----
+
+Next event: Customer 956 Departure
+Next event: Customer 957 Arrival
+
+----No. of customer  delayed: 957----
+
+Next event: Customer 957 Departure
+Next event: Customer 958 Arrival
+
+----No. of customer  delayed: 958----
+
+Next event: Customer 958 Departure
+Next event: Customer 959 Arrival
+
+----No. of customer  delayed: 959----
+
+Next event: Customer 959 Departure
+Next event: Customer 960 Arrival
+
+----No. of customer  delayed: 960----
+
+Next event: Customer 960 Departure
+Next event: Customer 961 Arrival
+
+----No. of customer  delayed: 961----
+
+Next event: Customer 962 Arrival
+Next event: Customer 961 Departure
+
+----No. of customer  delayed: 962----
+
+Next event: Customer 963 Arrival
+Next event: Customer 962 Departure
+
+----No. of customer  delayed: 963----
+
+Next event: Customer 963 Departure
+Next event: Customer 964 Arrival
+
+----No. of customer  delayed: 964----
+
+Next event: Customer 964 Departure
+Next event: Customer 965 Arrival
+
+----No. of customer  delayed: 965----
+
+Next event: Customer 965 Departure
+Next event: Customer 966 Arrival
+
+----No. of customer  delayed: 966----
+
+Next event: Customer 966 Departure
+Next event: Customer 967 Arrival
+
+----No. of customer  delayed: 967----
+
+Next event: Customer 967 Departure
+Next event: Customer 968 Arrival
+
+----No. of customer  delayed: 968----
+
+Next event: Customer 968 Departure
+Next event: Customer 969 Arrival
+
+----No. of customer  delayed: 969----
+
+Next event: Customer 970 Arrival
+Next event: Customer 969 Departure
+
+----No. of customer  delayed: 970----
+
+Next event: Customer 970 Departure
+Next event: Customer 971 Arrival
+
+----No. of customer  delayed: 971----
+
+Next event: Customer 971 Departure
+Next event: Customer 972 Arrival
+
+----No. of customer  delayed: 972----
+
+Next event: Customer 972 Departure
+Next event: Customer 973 Arrival
+
+----No. of customer  delayed: 973----
+
+Next event: Customer 973 Departure
+Next event: Customer 974 Arrival
+
+----No. of customer  delayed: 974----
+
+Next event: Customer 974 Departure
+Next event: Customer 975 Arrival
+
+----No. of customer  delayed: 975----
+
+Next event: Customer 975 Departure
+Next event: Customer 976 Arrival
+
+----No. of customer  delayed: 976----
+
+Next event: Customer 976 Departure
+Next event: Customer 977 Arrival
+
+----No. of customer  delayed: 977----
+
+Next event: Customer 977 Departure
+Next event: Customer 978 Arrival
+
+----No. of customer  delayed: 978----
+
+Next event: Customer 979 Arrival
+Next event: Customer 980 Arrival
+Next event: Customer 978 Departure
+
+----No. of customer  delayed: 979----
+
+Next event: Customer 979 Departure
+
+----No. of customer  delayed: 980----
+
+Next event: Customer 981 Arrival
+Next event: Customer 982 Arrival
+Next event: Customer 983 Arrival
+Next event: Customer 980 Departure
+
+----No. of customer  delayed: 981----
+
+Next event: Customer 981 Departure
+
+----No. of customer  delayed: 982----
+
+Next event: Customer 984 Arrival
+Next event: Customer 985 Arrival
+Next event: Customer 982 Departure
+
+----No. of customer  delayed: 983----
+
+Next event: Customer 983 Departure
+
+----No. of customer  delayed: 984----
+
+Next event: Customer 984 Departure
+
+----No. of customer  delayed: 985----
+
+Next event: Customer 985 Departure
+Next event: Customer 986 Arrival
+
+----No. of customer  delayed: 986----
+
+Next event: Customer 986 Departure
+Next event: Customer 987 Arrival
+
+----No. of customer  delayed: 987----
+
+Next event: Customer 987 Departure
+Next event: Customer 988 Arrival
+
+----No. of customer  delayed: 988----
+
+Next event: Customer 989 Arrival
+Next event: Customer 990 Arrival
+Next event: Customer 988 Departure
+
+----No. of customer  delayed: 989----
+
+Next event: Customer 989 Departure
+
+----No. of customer  delayed: 990----
+
+Next event: Customer 991 Arrival
+Next event: Customer 990 Departure
+
+----No. of customer  delayed: 991----
+
+Next event: Customer 992 Arrival
+Next event: Customer 991 Departure
+
+----No. of customer  delayed: 992----
+
+Next event: Customer 992 Departure
+Next event: Customer 993 Arrival
+
+----No. of customer  delayed: 993----
+
+Next event: Customer 993 Departure
+Next event: Customer 994 Arrival
+
+----No. of customer  delayed: 994----
+
+Next event: Customer 994 Departure
+Next event: Customer 995 Arrival
+
+----No. of customer  delayed: 995----
+
+Next event: Customer 996 Arrival
+Next event: Customer 997 Arrival
+Next event: Customer 998 Arrival
+Next event: Customer 995 Departure
+
+----No. of customer  delayed: 996----
+
+Next event: Customer 996 Departure
+
+----No. of customer  delayed: 997----
+
+Next event: Customer 997 Departure
+
+----No. of customer  delayed: 998----
+
+Next event: Customer 998 Departure
+Next event: Customer 999 Arrival
+
+----No. of customer  delayed: 999----
+
+Next event: Customer 1000 Arrival
+Next event: Customer 999 Departure
+
+----No. of customer  delayed: 1000----
+

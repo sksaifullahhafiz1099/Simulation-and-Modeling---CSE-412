@@ -8,16 +8,17 @@
  #define BUSY      1  /* Mnemonics for server's being busy */
  #define IDLE      0  /* and idle. */
  int   next_event_type, num_custs_delayed, num_delays_required, num_events,
-      num_in_q, server_status;
+      num_in_q, server_status,next_cust_arrival,next_cust_depart;
  float area_num_in_q, area_server_status, mean_interarrival, mean_service,
       sim_time, time_arrival[Q_LIMIT + 1], time_last_event, time_next_event[3],
       total_of_delays;
- FILE  *infile, *outfile;
+ FILE  *infile, *outfile, *outfile2;
  void  initialize(void);
  void  timing(void);
  void  arrive(void);
  void  depart(void);
  void  report(void);
+ void  update(void);
  void  update_time_avg_stats(void);
  float expon(float mean);
 
@@ -27,7 +28,8 @@
  {
     /* Open input and output files. */
     infile  = fopen("mm1.in",  "r");
-    outfile = fopen("mm1.out", "w");
+    outfile = fopen("mm1.out1", "w");
+    outfile2 = fopen("mm1.out2", "w");
     /* Specify the number of events for the timing function. */
     num_events = 2;
     /* Read input parameters. */
@@ -45,6 +47,8 @@
     while (num_custs_delayed < num_delays_required) {
         /* Determine the next event. */
         timing();
+        /* Next Departure or Arrival Print*/
+        update();
         /* Update time-average statistical accumulators. */
         update_time_avg_stats();
         /* Invoke the appropriate event function. */
@@ -61,13 +65,17 @@
     report();
     fclose(infile);
     fclose(outfile);
+    fclose(outfile2);
     return 0;
  }
 
 
 
  void initialize(void)  /* Initialization function. */
- {
+ {  
+    /* Initialize the next arrival and departure. */
+    next_cust_arrival = 1;
+    next_cust_depart = 1;
     /* Initialize the simulation clock. */
     sim_time = 0.0;
     /* Initialize the state variables. */
@@ -110,7 +118,10 @@
 
 
  void arrive(void)  /* Arrival event function. */
- { 
+ {  
+    /*customer that will arrive next*/
+    next_cust_arrival++;
+
     float delay;
     /* Schedule next arrival. */
     time_next_event[1] = sim_time + expon(mean_interarrival);
@@ -138,6 +149,7 @@
         total_of_delays += delay;
         /* Increment the number of customers delayed, and make server busy. */
         ++num_custs_delayed;
+        fprintf(outfile2, "\n----No. of customer  delayed: %d----\n\n", num_custs_delayed);
         server_status = BUSY;
         /* Schedule a departure (service completion). */
         time_next_event[2] = sim_time + expon(mean_service);
@@ -147,6 +159,9 @@
 
  void depart(void)  /* Departure event function. */
  { 
+    /*customer that will depart next*/
+    next_cust_depart++;
+
     int   i;
     float delay;
     /* Check to see whether the queue is empty. */
@@ -166,6 +181,7 @@
         total_of_delays += delay;
         /* Increment the number of customers delayed, and schedule departure. */
         ++num_custs_delayed;
+        fprintf(outfile2, "\n----No. of customer  delayed: %d----\n\n", num_custs_delayed);
         time_next_event[2] = sim_time + expon(mean_service);
         /* Move each customer in queue (if any) up one place. */
         for (i = 1; i <= num_in_q; ++i)
@@ -205,3 +221,14 @@ float expon(float mean)  /* Exponential variate generation function. */
     /* Return an exponential random variate with mean "mean". */
     return -mean * log(lcgrand(1));
  }
+
+void update(void){
+    if(next_event_type == 1){
+        fprintf(outfile2, "Next event: Customer %d Arrival\n", next_cust_arrival);
+    }
+
+    if(next_event_type == 2){
+        fprintf(outfile2, "Next event: Customer %d Departure\n", next_cust_depart);
+    }
+
+}
