@@ -23,7 +23,7 @@
 
 
 
-  main()  /* Main function. */
+ main()  /* Main function. */
  {
     /* Open input and output files. */
     infile  = fopen("mm1.in",  "r");
@@ -99,6 +99,7 @@
         }
     /* Check to see whether the event list is empty. */
     if (next_event_type == 0) {
+        report();
         /* The event list is empty, so stop the simulation. */
         fprintf(outfile, "\nEvent list empty at time %f", sim_time);
         exit(1);
@@ -119,6 +120,7 @@
         ++num_in_q;
         /* Check to see whether an overflow condition exists. */
         if (num_in_q > Q_LIMIT) {
+            report();
             /* The queue has overflowed, so stop the simulation. */
             fprintf(outfile, "\nOverflow of the array time_arrival at");
             fprintf(outfile, " time %f", sim_time);
@@ -185,10 +187,8 @@ void report(void)  /* Report generator function. */
     fprintf(outfile, "Time simulation ended%12.3f minutes", sim_time);
  }
 
-void update_time_avg_stats(void)  /* Update area accumulators for time-average
-                                     statistics. */
+void update_time_avg_stats(void)  /* Update area accumulators for time-average statistics. */
  {
-
      float time_since_last_event;
     /* Compute time since last event, and update last-event-time marker. */
     time_since_last_event = sim_time - time_last_event;
@@ -200,7 +200,7 @@ void update_time_avg_stats(void)  /* Update area accumulators for time-average
 
  }
 
- float expon(float mean)  /* Exponential variate generation function. */
+float expon(float mean)  /* Exponential variate generation function. */
  {
     /* Return an exponential random variate with mean "mean". */
     return -mean * log(lcgrand(1));
