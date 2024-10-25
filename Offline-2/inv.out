@@ -1,0 +1,20 @@
+Single-product inventory system
+
+Initial inventory level                       0 items
+
+Number of demand sizes                        0
+
+Distribution function of demand sizes  
+
+Mean interdemand time                      0.00
+
+Delivery lag range                         0.00 to      0.00 months
+
+Length of the simulation                      0 months
+
+K =   0.0   i =   0.0   h =   0.0   pi =   0.0
+
+Number of policies                            0
+
+                 Average        Average        Average        Average
+  Policy       total cost    ordering cost  holding cost   shortage cost
