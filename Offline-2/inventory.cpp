@@ -1,6 +1,7 @@
 /* External definitions for inventory system. */
 #include <stdio.h>
 #include <math.h>
+#include <iostream>
 #include <stdlib.h>
 #include "lcgrand.h"  /* Header file for random-number generator. */
 int   amount, bigs, initial_inv_level, inv_level, next_event_type, num_events,
@@ -27,7 +28,7 @@ main()  /* Main function. */
 {
    int i, num_policies;
    /* Open input and output files. */
-   infile  = fopen("in.in",  "r");
+   infile  = fopen("inv.in",  "r");
    outfile = fopen("inv.out", "w");
    /* Specify the number of events for the timing function. */
    num_events = 4;
@@ -84,6 +85,8 @@ main()  /* Main function. */
                case 3:
                   report();
                   break;
+               }
+                 
          }
       /* If the event just executed was not the end-simulation event (type 3),
          continue simulating.  Otherwise, end the simulation for the current
