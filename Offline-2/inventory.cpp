@@ -72,7 +72,7 @@ main()  /* Main function. */
          update_time_avg_stats();
          /* Invoke the appropriate event function. */
 
-         switch (next_event_type) {
+            switch (next_event_type) {
                case 1:
                   order_arrival();
                   break;
@@ -85,8 +85,6 @@ main()  /* Main function. */
                case 3:
                   report();
                   break;
-               }
-                 
          }
       /* If the event just executed was not the end-simulation event (type 3),
          continue simulating.  Otherwise, end the simulation for the current
