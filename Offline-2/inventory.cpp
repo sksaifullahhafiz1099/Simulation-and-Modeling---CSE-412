@@ -23,7 +23,6 @@ int   random_integer(float prob_distrib []);
 float uniform(float a, float b);
 
 
-
 main()  /* Main function. */
 {
    int i, num_policies;
@@ -40,24 +39,25 @@ main()  /* Main function. */
    for (i = 1; i <= num_values_demand; ++i)
       fscanf(infile, "%f", &prob_distrib_demand[i]);
    /* Write report heading and input parameters. */
-   fprintf(outfile, "Single-product inventory system\n\n");
-   fprintf(outfile, "Initial inventory level%24d items\n\n",
+   fprintf(outfile, "------Single-Product Inventory System------\n\n");
+   fprintf(outfile, "Initial inventory level: %d items\n\n",
          initial_inv_level);
-   fprintf(outfile, "Number of demand sizes%25d\n\n", num_values_demand);
-   fprintf(outfile, "Distribution function of demand sizes  ");
+   fprintf(outfile, "Number of demand sizes: %d\n\n", num_values_demand);
+   fprintf(outfile, "Distribution function of demand sizes:");
    for (i = 1; i <= num_values_demand; ++i)
-      fprintf(outfile, "%8.3f", prob_distrib_demand[i]);
-   fprintf(outfile, "\n\nMean interdemand time%26.2f\n\n", mean_interdemand);
-   fprintf(outfile, "Delivery lag range%29.2f to%10.2f months\n\n", minlag,
+      fprintf(outfile, " %0.2f", prob_distrib_demand[i]);
+   fprintf(outfile, "\n\nMean inter-demand time: %0.2f months\n\n", mean_interdemand);
+   fprintf(outfile, "Delivery lag range: %0.2f to %0.2f months\n\n", minlag,
          maxlag);
-   fprintf(outfile, "Length of the simulation%23d months\n\n", num_months);
-   fprintf(outfile, "K =%6.1f   i =%6.1f   h =%6.1f   pi =%6.1f\n\n",
+   fprintf(outfile, "Length of simulation: %d months\n\n", num_months);
+   fprintf(outfile, "Costs:\n");
+   fprintf(outfile, "K = %0.2f\ni = %0.2f\nh = %0.2f\npi = %0.2f\n\n",
          setup_cost, incremental_cost, holding_cost, shortage_cost);
-   fprintf(outfile, "Number of policies%29d\n\n", num_policies);
-   fprintf(outfile, "                 Average        Average");
-   fprintf(outfile, "        Average        Average\n");
-   fprintf(outfile, "  Policy       total cost    ordering cost");
-   fprintf(outfile, "  holding cost   shortage cost");
+   fprintf(outfile, "Number of policies:%2d\n\n", num_policies);
+   fprintf(outfile, "Policies:\n");
+   fprintf(outfile, "--------------------------------------------------------------------------------------------------\n");
+   fprintf(outfile, " Policy        Avg_total_cost     Avg_ordering_cost      Avg_holding_cost     Avg_shortage_cost\n");
+   fprintf(outfile, "--------------------------------------------------------------------------------------------------");
    /* Run the simulation varying the inventory policy. */
    for (i = 1; i <= num_policies; ++i) {
       /* Read the inventory policy, and initialize the simulation. */
@@ -91,6 +91,7 @@ main()  /* Main function. */
          (s,S) pair and go on to the next pair (if any). */
       } while (next_event_type != 3);
    }
+   fprintf(outfile, "\n\n--------------------------------------------------------------------------------------------------");
    /* End the simulations. */
    fclose(infile);
    fclose(outfile);
@@ -163,7 +164,7 @@ void report(void)  /* Report generator function. */
    avg_ordering_cost = total_ordering_cost / num_months;
    avg_holding_cost  = holding_cost * area_holding / num_months;
    avg_shortage_cost = shortage_cost * area_shortage / num_months;
-   fprintf(outfile, "\n\n(%3d,%3d)%15.2f%15.2f%15.2f%15.2f",
+   fprintf(outfile, "\n\n(%3d,%3d)%15.2f%22.2f%20.2f%22.2f",
          smalls, bigs,
          avg_ordering_cost + avg_holding_cost + avg_shortage_cost,
          avg_ordering_cost, avg_holding_cost, avg_shortage_cost);
