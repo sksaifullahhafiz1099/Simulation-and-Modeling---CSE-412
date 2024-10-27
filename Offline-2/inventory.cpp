@@ -145,7 +145,7 @@ void evaluate(void)  /* Inventory-evaluation event function. */
    if (inv_level < smalls) {
       /* The inventory level is less than smalls, so place an order for the
          appropriate amount. */
-      amount               = bigs - inv_level;
+      amount = bigs - inv_level;
       total_ordering_cost += setup_cost + incremental_cost * amount;
       /* Schedule the arrival of the order. */
       time_next_event[1] = sim_time + uniform(minlag, maxlag);
